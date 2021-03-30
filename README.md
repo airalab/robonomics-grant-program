@@ -14,9 +14,9 @@ From our experiance of academic practice, we understand well how important it is
 
 ### Terms of participation
 
-* The maximum funding amount: **50 000 USD**.
+* The maximum funding amount: **50 000 DAI**.
 * Funding is provided in **Robonomics tokens** ([XRT](https://www.coingecko.com/en/coins/robonomics-network)) at the price at the time of approval of the proposal.
-* You should use the Robonomics platform in your project, so first make sure that it is compatible with our platform. Please note that we are using the **Robot Operating System** as a connector for robotic devices and **HTTP / MQTT** protocol for connecting IoT devices. For more information, see [our resources](https://robonomics.network/).
+* You should use the Robonomics platform in your project, so first make sure that it is compatible with our platform. Please note that we are using the **Robot Operating System** as a connector for robotic devices and **HTTP / MQTT** protocol for connecting IoT devices. For more information, see [our wiki](https://wiki.robonomics.network/).
 * By the end of the project, you must provide some set of deliverables, such as reports, articles, repositories, modules, launch guides, etc.
 * There are no strong restrictions on participation in the program, but we give priority to teams that have some research background (for example, if you are **PhD student**) or development experience in robotics. In any case, your chances of grant approval are increased based on your proven experience, which we ask you to describe in the proposal.
 * The proposal approval comes from voting process by the Robonomics developers on **Aragon DAO** platform.
@@ -33,11 +33,10 @@ From our experiance of academic practice, we understand well how important it is
     5. After that, create a pull request. **Warning:** the pull request should only contain *one new file* — the Markdown file you created from the template.
     6. Sign off on the [terms and conditions](T&Cs.md).
 2. **Proposal Review**
-    1. Join our channels for communication during the review process. First of all, you need to notify us that you have submitted the proposal for review.
-    2. After the proposal is received, the Robonomics team proceeds to its review. It is very likely that we will make comments and ask you to make changes on the pull request.
-    3. Clarifications and corrections made in the comments *need to be included in the proposal*. You may modify your proposal directly and leave a comment about the edits you made.
-    4. The final approval process for the proposal is based by voting at the Aragon DAO. The conditions for passing are very loyal to the recipients: if at least one of the Robonomics developers supports your project, then the proposal will be approved.
-    5. The proposal is accepted when all requested changes are addressed, the terms and conditions have been agreed upon and we approves your pull request.
+    1. After the proposal is received, the Robonomics team proceeds to its review. It is very likely that we will make comments and ask you to make changes on the pull request.
+    2. Clarifications and corrections made in the comments *need to be included in the proposal*. You may modify your proposal directly and leave a comment about the edits you made.
+    3. The final approval process for the proposal is based by voting at the Aragon DAO. The conditions for passing are very loyal to the recipients: if at least one of the Robonomics developers supports your project, then the proposal will be approved.
+    4. The proposal is accepted when all requested changes are addressed, the terms and conditions have been agreed upon and we approves your pull request.
 3. **Results Delivery**
     1. After the end of the project, the list of results with links is placed in the Robonomics Grant Results Delivery repository. You can find the delivery process [here](link).
 
