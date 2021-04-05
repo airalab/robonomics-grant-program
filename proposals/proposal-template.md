@@ -6,18 +6,18 @@
 * **Team Name:** If you have a team name, place it here
 * **Summary:** A brief description of your project (1-2 sentence)
 * **Total Estimated Duration:** Duration of the whole project (from 3 to 9 months)
-* **Requested Funding:** Amount in USD
+* **Requested Funding:** Amount in USD, preferred cryptocurrency.
 * **Payment Address:** Ethereum payment address
 
-> Do not forget that we provide funding in Robonomics tokens ([XRT](https://www.coingecko.com/en/coins/robonomics-network)) at the price at the time of proposal approval.
+> Do not forget that we provide funding in in **Robonomics** ([XRT](https://www.coingecko.com/en/coins/robonomics-network)) or **Dai Stablecoin** ([DAI](https://www.coingecko.com/en/coins/dai)) or Ethereum ([ETH](https://www.coingecko.com/en/coins/ethereum)) tokens at the price at the time of proposal approval.
 
 ---
 
-## Project Overview
+## :bookmark_tabs: Project Overview
 
 > In this section, you reveal the project, technical details, and how you intend to use the Robonomics Network to bring your idea to life. To help you, we have listed possible questions that you would like to answer.
 
-### Motivation
+### :mechanical_arm: Motivation
 
 >
 * Expanded main idea of the project.
@@ -26,7 +26,7 @@
 * Are there any other projects similar to yours? If so, how is your project different?
 
 
-### Technical Details
+### :pager: Technical Details
 
 > Please, responsibly indicate if your project is based on third-party development and specify the authorship.
 
@@ -44,34 +44,34 @@
 
 ---
 
-## Team
+## :busts_in_silhouette: Team
 
-### Contact
+### :speaking_head: Contact
 * **Contact Name:** Full name of the contact person in your team
 * **Contact Address:** Email, Telegram or Element (Riot)
 
-### Team members
+### :bust_in_silhouette: Team members
 * Name of team leader
 * Names of team members 
 
 > If you are a representative of an organization / university and participate in a grant on its behalf, then indicate the following information.
 
-### Organization
+### :office: Organization
 * **Registered Organization Name:** Name of organization.
 * **Registered Address:** Legal address of your organization.
 
-### Experience of Team
+### :trophy: Experience of Team
 
 > Please describe the team's relevant experience. In this section, you can indicate scientific and professional experience, scientific papers, blog posts, PhD thesis, GitHub repositories, links to projects' sites and videos and any other information.
 
 ---
 
-## Expected results
+## :package: Expected results
 
 > In this section, you are invited to describe what specific deliverables will be obtained in final. It can be: setup, launch and test guides, theory and calculations, reports, repositories, ROS modules, articles, videos, blog posts, etc.
 
 ---
 
-## Additional Information
+## :information_source: Additional Information
 
 > Feel free to share any other relevant information on the project. 
