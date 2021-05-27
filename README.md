@@ -45,7 +45,7 @@ To help you better understand what kind of projects we would like to support, we
 
 ## :mag: Terms of participation
 
-* The maximum funding amount: **50 000 USD** in cryptocurrency.
+* The maximum funding amount: **50 000 DAI** in cryptocurrency.
 * Funding is provided in **Robonomics** ([XRT](https://www.coingecko.com/en/coins/robonomics-network)) or **Dai Stablecoin** ([DAI](https://www.coingecko.com/en/coins/dai)) or Ethereum ([ETH](https://www.coingecko.com/en/coins/ethereum)) tokens at the price at the time of approval of the proposal. In the future, we also plan to provide funds in [Kusama](https://kusama.network/) tokens.
 * The allocation of funds is provided using a **vesting mechanism**, executed as an Ethereum contract using the Aragon platform. The mechanism allows to release the grant reserved tokens in parts for a certain period of time with a certain delay in the first payment, depending on the conditions met and with the possibility of cancellation otherwise.
 * We expect all applicants to use the Robonomics platform in their projects, so please check the compatibility with your technology before you apply. Also, please, note that we are using the **Robot Operating System** as a connector for robotic devices and **HTTP / MQTT** protocol for connecting IoT devices. For more information, see [our wiki](https://wiki.robonomics.network/).
