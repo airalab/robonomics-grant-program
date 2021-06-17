@@ -1,7 +1,5 @@
 # Robonomics Grant Proposal
 
-> This file will contain the main information hub of your Robonomics grant proposal. We recommend to provide full and comprehensive information to speed up the proposal review process. Comments in the lines starting with a `>` and can be deleted.
-
 * **Project Name:** Robossembler
 * **Team Name:** Robossembler Team
 * **Summary:** Creating Gazebo-based simulation of Self-Replicated Robotics Infrastructure for Manipulators
@@ -9,17 +7,12 @@
 * **Requested Funding:** 40000 DAI
 * **Payment Address:** 0xC27502Bf5E1f5032C5923B1B5be83ddb7BC770fF
 
-> Do not forget that we provide funding in in **Robonomics** ([XRT](https://www.coingecko.com/en/coins/robonomics-network)) or **Dai Stablecoin** ([DAI](https://www.coingecko.com/en/coins/dai)) or Ethereum ([ETH](https://www.coingecko.com/en/coins/ethereum)) tokens at the price at the time of proposal approval.
-
 ---
 
 ## :bookmark_tabs: Project Overview
 
-> In this section, you reveal the project, technical details, and how you intend to use the Robonomics Network to bring your idea to life. To help you, we have listed possible questions that you would like to answer.
-
 ### :mechanical_arm: Motivation
 
->
 * It is proposed to create a digital twin of a partially self-replicating robotic factory, temporarily abandoning the study of resource-extracting subsystems, the chemical industry, the production of microelectronics, and energy. The demonstration of a dynamic model of a factory that can create complete copies of its production units will draw the attention of the world engineering community to the need to apply special approaches to creating fully automated systems and will start the process of further development. Since the key element of the deserted production is robot manipulators, it is proposed to focus on their reproduction in the framework of creating a model.
 * Modern production systems are complex software and hardware complexes consisting of a large number of components with varying degrees of interdependence, which are developed, manufactured and supplied by various companies. On the one hand, a deep division of labor increases quality, but on the other hand, it makes it difficult to integrate components into fully automated super - systems. In turn, the task of developing autonomous (light's out) or self-replicating (self-replication) technical systems requires close integration of life cycle data within the framework of the common requirement of "desolation" for all its subsystems. This requirement also imposes a number of significant restrictions on the design of all components of the system and makes it almost impossible to develop and implement within a single company. Even the most automated industries cannot escape manual labor; especially in assembly operations.
 * However, fully automated production also has a number of advantages, because it allows you to achieve a high synergistic effect by eliminating human-machine interfaces and aesthetic requirements (including special labeling); human-adapted operating conditions (air, humidity, lighting, temperature); compliance with safety standards, interchangeability within the existing range of components, maintainability. That is, the development of such systems requires a revision of the basics of technical systems and the principles of the production process, which is currently focused on assembly, commissioning and operation by humans.
@@ -30,9 +23,6 @@
 
 ### :pager: Technical Details
 
-> Please, responsibly indicate if your project is based on third-party development and specify the authorship.
-
->
 * **Short Disrciption of expected tasks** - technology/material research, 3D-model, programming robotics arm, simulations
 * **An overview of the technology stack to be used** - Gazebo/Ignition, ROS, Unity3D/Godot, Python/Haskell/bash.
 * **Robot Operating System packages to be used** - all needed Open-licensed packages
@@ -57,15 +47,11 @@
 * Stanislav Sgonov, Tech Lead/3D-modeling (Solidworks)
 * Mikhail Tarantsov, System/MCU Programming (Linux)
 
-> If you are a representative of an organization / university and participate in a grant on its behalf, then indicate the following information.
-
 ### :office: Organization
 * **Registered Organization Name:** None
 * **Registered Address:** None
 
 ### :trophy: Experience of Team
-
-> Please describe the team's relevant experience. In this section, you can indicate scientific and professional experience, scientific papers, blog posts, PhD thesis, GitHub repositories, links to projects' sites and videos and any other information.
 
 * PLC developement project management
 * Robotics Arm Design
@@ -76,8 +62,6 @@
 
 ## :package: Expected results
 
-> In this section, you are invited to describe what specific deliverables will be obtained in final. It can be: setup, launch and test guides, theory and calculations, reports, repositories, ROS modules, articles, videos, blog posts, etc.
-
 * Blog posts
 * Video tutorials
 * Gazebo/Ignition simulation repositories
@@ -86,8 +70,6 @@
 ---
 
 ## :information_source: Additional Information
-
-> Feel free to share any other relevant information on the project. 
 
 At the moment, manipulators cannot be produced in fully automatic mode due to the following restrictions:
 1. The technical complexity or impossibility of automating individual operations - for example, the installation of drive belts and fasteners of structural components that require stretching cables, connectors. Cable connections require standardized elements of a specific nomenclature. The use of custom items is difficult due to the high cost and long delivery times.
