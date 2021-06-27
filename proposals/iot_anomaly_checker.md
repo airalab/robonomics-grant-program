@@ -1,18 +1,14 @@
 # Robonomics Grant Proposal
 
-> The Proposal document will contain information about the project you would like to implement using the Robonomics grant. We recommend to provide full and comprehensive information to speed up the proposal review process. Comments in the lines starting with a `>` can be deleted.
-
-> NB: We provide funding in **Robonomics** ([XRT](https://www.coingecko.com/en/coins/robonomics-network)) or **Dai Stablecoin** ([DAI](https://www.coingecko.com/en/coins/dai)) or **Ethereum** ([ETH](https://www.coingecko.com/en/coins/ethereum)) tokens. For the calculation, we use the exchange rate on the date when you proposal is being approved.
-
 ## 1. Administrative Information :white_check_mark:
 
-* **Project Name:** Name of your project goes here
-* **Organisation Name:** If you work for organisation, place its name here
-* **Project Summary:** A brief description of your project (1-2 sentence)
-* **Total Estimated Duration:** Duration of the whole project (from 3 to 9 months)
-* **Expected Project Start / End Dates:** Place start and end dates here
-* **Requested Funding:** Amount in USD, preferred cryptocurrency
-* **Payment Address:** Ethereum payment address
+* **Project Name:** IoT Anomaly Checker
+* **Organisation Name:** [Techgethr](https://techgethr.com/)
+* **Project Summary:** Real-time sensor data analysis system with Microsoft Azure, using Robonomics through a web app so that a person can validate and sign the information registered by a sensor in a certain time.
+* **Total Estimated Duration:** 7 months
+* **Expected Project Start / End Dates:** August 2021 - February 2022
+* **Requested Funding:** USD $45,000 (23.158 ETH, value for June 26th 2021)
+* **Payment Address:** 0xdA3ec0B8BDdd2E8BDedEde3333FbaF938fcC18c5
 
 ---
 
@@ -48,14 +44,14 @@
 > In this section, you can describe your team and indicate your scientific and professional experience (scientific papers, blog posts, PhD thesis, GitHub repositories, links to projects’ sites and videos and any other information).
 
 * **Organization** (if applicable):
-    * Official name of organization.
-    * Legal address of organization.
+    * Official name of organization: Techgethr
+    * Legal address of organization: 128 Padre Mariano (apartment 606), Providencia, Chile (postal code: 7500026)
 * **Contact person**:
-    * Full name of the contact person representing the team.
-    * Position at the organisation (if applicable).
-    * Main contact address (email, Telegram or Element Riot).
-    * Role in the project (if applicable).
-    * Experience (if applicable).
+    * Full name of the contact person representing the team: Néstor Nicolás Campos Rojas
+    * Position at the organisation (if applicable): Founder and Senior Architect.
+    * Main contact address (email, Telegram or Element Riot): nestor@techgethr.com
+    * Role in the project (if applicable): Architect and developer.
+    * Experience (if applicable): 
 * **Team person #1**:
     * Full name.
     * Role in the project.
@@ -79,9 +75,9 @@
 
 | No. | Task description | Start/end dates |
 |:---:|:----------------:|:---------------:|
-| ... |        ...       |       ...       |
-| ... |        ...       |       ...       |
-| ... |        ...       |       ...       |
+| 1 |        ...       |       ...       |
+| 2 |        ...       |       ...       |
+| 3 |        ...       |       ...       |
 
 ---
 
