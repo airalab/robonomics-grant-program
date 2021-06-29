@@ -50,11 +50,11 @@
     * Full name of the contact person representing the team: Néstor Nicolás Campos Rojas
     * Position at the organisation (if applicable): Founder and Senior Architect.
     * Main contact address (email, Telegram or Element Riot): nestor@techgethr.com
-    * Role in the project (if applicable): Architect and developer.
+    * Role in the project (if applicable): Team Leader and developer.
     * Experience (if applicable): 
 * **Team person #1**:
-    * Full name.
-    * Role in the project.
+    * Full name: Néstor Nicolás Campos Rojas
+    * Role in the project: Team Leader and programmer.
     * Experience.
 * **Team person #N**:
     * Full name.
@@ -65,7 +65,13 @@
 
 ## 5. Expected results :package:
 
-> In this section, you are invited to describe what specific results your team is planning to produce by the end of the project. It can be: setup, launch and test guides, theory and calculations, reports, repositories, ROS modules, articles, videos, blog posts, etc. (max. one page long).
+Our project has 5 deliverables, both for the general public and those in charge of Robonomics, detailed below:
+
+- Web application (source code) published on Github with MIT license for use (with documentation in the same repository).
+- Complete video tutorial on using the application (in Spanish, with English subtitles), published on YouTube or another platform to select.
+- Complete documentation in english (in Gitbook), both of the solution and the details of each component (source code), in order to invite people to extend the project.
+- Detail of the work done in PDF format (to present it to the directors and managers of Robonomics).
+- At least 2 virtual meetings (meetups) with the Latin American communities of Microsoft Azure and IoT to show the application and publicize Robonomics and its components in detail.
 
 ---
 
