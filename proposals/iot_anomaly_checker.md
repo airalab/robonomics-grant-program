@@ -7,7 +7,7 @@
 * **Project Summary:** Real-time sensor data analysis system with Microsoft Azure, using Robonomics through a web app so that a person can validate and sign the information registered by a sensor in a certain time.
 * **Total Estimated Duration:** 7 months
 * **Expected Project Start / End Dates:** August 2021 - February 2022
-* **Requested Funding:** USD $45,000 (23.158 ETH, value for June 26th 2021)
+* **Requested Funding:** USD $45,000 (19.89 ETH, value for June 30th 2021)
 * **Payment Address:** 0xdA3ec0B8BDdd2E8BDedEde3333FbaF938fcC18c5
 
 ---
@@ -47,19 +47,22 @@
     * Official name of organization: Techgethr
     * Legal address of organization: 128 Padre Mariano (apartment 606), Providencia, Chile (postal code: 7500026)
 * **Contact person**:
-    * Full name of the contact person representing the team: Néstor Nicolás Campos Rojas
+    * Full name of the contact person representing the team: Néstor Nicolás Campos Rojas (https://www.linkedin.com/in/nescampos/)
     * Position at the organisation (if applicable): Founder and Senior Architect.
     * Main contact address (email, Telegram or Element Riot): nestor@techgethr.com
     * Role in the project (if applicable): Team Leader and developer.
-    * Experience (if applicable): 
+    * Experience (if applicable): Néstor has more than 11 years of experience in the development of different Cloud solutions, including Big Data and IoT. He has participated in many Microsoft Azure projects and events, being recognized as Microsoft MVP in 2020 for his contribution to the Latin American communities. He owns the Techgethr company.
 * **Team person #1**:
     * Full name: Néstor Nicolás Campos Rojas
     * Role in the project: Team Leader and programmer.
-    * Experience.
-* **Team person #N**:
-    * Full name.
-    * Role in the project.
-    * Experience.
+    * Experience: Néstor has more than 11 years of experience in the development of different Cloud solutions, including Big Data and IoT. He has participated in many Microsoft Azure projects and events, being recognized as Microsoft MVP in 2020 for his contribution to the Latin American communities. He owns the Techgethr company.
+* **Team person #2**:
+    * Full name: María Carolina Vidal
+    * Role in the project: Writer. In charge of writing all the documentation (tutorials and documents to Robonomics).
+    * Experience: Carolina has more than 4 years of experience in different technology companies, supporting both commercial strategy and project documentation (for consumption by both technical and non-technical people).
+
+
+For the recordings, it is possible that Carolina or Néstor is the person who records the video tutorials in Spanish, while for English we will look for someone just for such purposes.
 
 ---
 
