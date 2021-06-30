@@ -14,7 +14,6 @@
 
 ## 2. Project Overview :bookmark_tabs:
 
-> In this section, you reveal the main idea of the project, how you intend to use the Robonomics Network to bring your idea to life, and your motivation. The section should include the following information (max. one A4 page long):
 
 There is an important problem with the integration of the cloud with data in sensors (IoT), and it is that there is not really a real use of the data and a confirmation from someone responsible about the correctness of the data. For example, sending data from sensors (or proxies) to a cloud can be displayed in a report, but that is where the process ends (very little value in the analytical and auditing part of this information).
 The project consists of designing a process for when the data reaches the cloud, it can be displayed in a web app in Microsoft Azure. In addition, the web app will be integrated with Azure cognitive services, in particular, with Anomaly Detector (https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/) to complement the data of the sensors and detect with Artificial Intelligence if the registration of a sensor is an anomaly (it escapes the acceptable range), for later, in the same web app, with Robonomics the data can be audited and signed by a person in charge and uploaded to IPFS , through a document that will be automatically generated with the filters selected by the person in charge (for example, which sensors or date ranges) and has information on anomalies or normal data.
@@ -33,7 +32,9 @@ I believe that with Robonomics we can do the same and more.
 
 ## 3. Technical Details :pager:
 
-> Please, responsibly indicate if your project is based on third-party development and specify the authorship. The section should include the following information: 
+![Architecture](https://i.imgur.com/0UzH8Hm.png)
+
+
 
 1. An overview of the technology stack to be used. This may include items such as: 
     1. Links to documentation of software, components, protocols, architecture, data models, API specifications, etc. that you based your project on.
