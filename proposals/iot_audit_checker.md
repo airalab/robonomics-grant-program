@@ -57,7 +57,7 @@ I believe that with Robonomics we can do the same and more.
     * Position at the organisation (if applicable): Founder and Senior Architect.
     * Main contact address (email, Telegram or Element Riot): nestor@techgethr.com
     * Role in the project (if applicable): Team Leader and developer.
-    * Experience (if applicable): Néstor has more than 11 years of experience in the development of different Cloud solutions, including Big Data and IoT. He has participated in many Microsoft Azure projects and events, being recognized as Microsoft MVP in 2020 for his contribution to the Latin American communities. He owns the Techgethr company.
+    * Experience (if applicable): Néstor has more than 11 years of experience in the development of different Cloud solutions, including Big Data and IoT. He has participated in many Microsoft Azure projects and events, being recognized as Microsoft MVP in 2020 for his contribution to the Latin American communities. He owns the Techgethr company. Also He is a Coursera instructor in various courses, including IoT and Blockchain: https://www.coursera.org/instructor/nestornicolascamposrojas
 * **Team person #1**:
     * Full name: Néstor Nicolás Campos Rojas
     * Role in the project: Team Leader and programmer.
