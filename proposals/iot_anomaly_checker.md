@@ -81,7 +81,7 @@ Here is a list of the 7 main activities in the months of the project:
 
 | No. | Task description | Start/end dates |
 |:---:|:----------------:|:---------------:|
-| 1 | Platform development (coding and testing) | August 2021 - Octuber 2021|
+| 1 | Platform development (coding and testing) | August 2021 - October 2021|
 | 2 | Publish the application as ARM Template and in Github repository | November 2021 |
 | 3 | Platform design and documentation in English (installation and use)| December 2021 |
 | 4 | Recording and publication of video tutorial in Spanish with the use of the platform. |December 2021 |
@@ -93,13 +93,16 @@ Here is a list of the 7 main activities in the months of the project:
 
 ## 7. Project Budget :moneybag:
 
-> Here you can specify how you plan to use the Robonomics grant. Again, this list is not strict and is intended to help you and us better understand the project.
+In the list below, we present a simple table of the breakdown of the requested amount (in USD):
 
 | No. | Expense Item |   Calculation   | Total cost |
 |:---:|:------------:|:---------------:|:----------:|
-| ... |     ...      |       ...       |     ...    |
-| ... |     ...      |       ...       |     ...    |
-|     |              |    **TOTAL:**   |            |
+| 1 | Platform programming | 1 person for the development of the bookstore and shows it in the meetup groups, for 7 months | 34000 |
+| 2 | Writing the project documentation| 1 person for 1 month of work at US$5000| 5000|
+| 3 | Tutorial recording (Spanish and English) and publication | 2 people, native to each language, for US$3000 per month each | 6000|
+|     |              |    **TOTAL:**   | 45000 |
+
+The purchase of a paid meetup group, licences (or any other required tool) and the use of a Microsoft Azure environment will be at the expense of Techgethr.
 
 ---
 
