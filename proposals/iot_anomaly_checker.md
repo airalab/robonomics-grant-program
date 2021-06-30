@@ -41,7 +41,6 @@
 
 ## 4. Team :busts_in_silhouette:
 
-> In this section, you can describe your team and indicate your scientific and professional experience (scientific papers, blog posts, PhD thesis, GitHub repositories, links to projects’ sites and videos and any other information).
 
 * **Organization** (if applicable):
     * Official name of organization: Techgethr
