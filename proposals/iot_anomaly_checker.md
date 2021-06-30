@@ -68,7 +68,7 @@
 Our project has 5 deliverables, both for the general public and those in charge of Robonomics, detailed below:
 
 - Web application (source code) published on Github with MIT license for use (with documentation in the same repository).
-- Complete video tutorial on using the application (in Spanish, with English subtitles), published on YouTube or another platform to select.
+- Complete video tutorial on using the application in english and spanish, published on YouTube or another platform to select.
 - Complete documentation in english (in Gitbook), both of the solution and the details of each component (source code), in order to invite people to extend the project.
 - Detail of the work done in PDF format (to present it to the directors and managers of Robonomics).
 - At least 2 virtual meetings (meetups) with the Latin American communities of Microsoft Azure and IoT to show the application and publicize Robonomics and its components in detail.
@@ -77,13 +77,17 @@ Our project has 5 deliverables, both for the general public and those in charge 
 
 ## 6. Project Schedule :date:
 
-> Here you can provide the table of expected tasks with a short description of every task. This list is not strict, and you are free to adhere to a different schedule during the grant implementation. First of all, the list is needed so that you can orientate yourself on the upcoming project. Secondly, such a list will demonstrate to us that you have a clear understanding of the goals and objectives.
+Here is a list of the 7 main activities in the months of the project:
 
 | No. | Task description | Start/end dates |
 |:---:|:----------------:|:---------------:|
-| 1 |        ...       |       ...       |
-| 2 |        ...       |       ...       |
-| 3 |        ...       |       ...       |
+| 1 | Platform development (coding and testing) | August 2021 - Octuber 2021|
+| 2 | Publish the application as ARM Template and in Github repository | November 2021 |
+| 3 | Platform design and documentation in English (installation and use)| December 2021 |
+| 4 | Recording and publication of video tutorial in Spanish with the use of the platform. |December 2021 |
+| 5 | Recording and publication of video tutorial in English with the use of the platform. |January 2022|
+| 6 | Meetups for showing our new library and web app | January 2022 - February 2022 |
+| 7 | Document delivery to Robonomics with all the details and project work. | February 2022 |
 
 ---
 
@@ -101,4 +105,5 @@ Our project has 5 deliverables, both for the general public and those in charge 
 
 ## 8. Additional Information :information_source: 
 
-> Feel free to share any other relevant information on the project. 
+Our intention is to maintain this software over time, beyond the duration of the project (this is how we are doing it with other technologies).
+Also, we are going to extend it to other clouds (AWS and Google Cloud).
