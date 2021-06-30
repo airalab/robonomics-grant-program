@@ -81,8 +81,7 @@
 
 ## 5. Expected results :package:
 
-* Simulation & software source code
-* 3D design / environment
+* CAD/CAE/Software/Simulation sources
 * Blog posts
 * Video tutorials
 * Technology description
@@ -93,18 +92,22 @@
 
 | No. | Task description | Start/end dates |
 |:---:|:----------------:|:---------------:|
-| 1 | Robot Arm Assembly Flow design | 01/04/2021 - 01/06/2021 |
+| 1 | Robot Arm Assembly Flow Design | 01/04/2021 - 01/06/2021 |
 | 2 | Robot Arm URDF Model | 01/04/2021 - 01/05/2021 |
-| 3 | Self Replication Concept Model | 01/04/2021 - 01/07/2021 |
+| 3 | Self Replication Concept Model (Python Notebook) | 01/04/2021 - 01/07/2021 |
 | 4 | Arm Tools (Welding, Soldering) Design | 01/04/2021 - 01/06/2021 |
-| 5 | Simulation Environment Selection | 01/05/2021 - 24/05/2021 |
-| 6 | Arm Tool Connector Design | 01/06/2021 - 01/07/2021 |
-| 7 | Workplace for Robot Arm | 01/07/2021 - 01/09/2021 |
-| 8 | Game Engine + ROS Integration | 15/07/2021 - 01/09/2021 |
-| 9 | Robot Arm + ROS integration | 01/09/2021 - 01/12/2021 |
-| 10 | Programming Robot Arm Control Logic | 01/08/2021 - 01/12/2021 |
-| 11 | Robonomics Testnet Integration | 01/12/2021 - 01/02/2022 |
-| 12 | Self-Replication Simulation Environment | 01/12/2021 - 01/03/2022 |
+| 5 | Simulation Environment Research | 01/05/2021 - 24/05/2021 |
+| 6 | 3D-printing Arm Tool Design | 01/07/2021 - 01/08/2021 |
+| 7 | Arm Tool Connector Interface Design | 01/06/2021 - 01/07/2021 |
+| 8 | Robot Arm Base Design | 01/07/2021 - 01/09/2021 |
+| 9 | Transporter Design | 01/09/2021 - 01/11/2021 |
+| 10 | Arm Tool Library Design | 01/08/2021 - 01/10/2021 |
+| 11 | Assembly Workspace Design | 01/08/2021 - 01/10/2021 |
+| 12 | Game Engine + ROS Integration | 15/07/2021 - 01/09/2021 |
+| 13 | Robot Arm + ROS integration | 01/09/2021 - 01/12/2021 |
+| 14 | Programming Robot Arm Control Logic | 01/08/2021 - 01/02/2021 |
+| 15 | Robonomics Testnet Integration | 01/01/2022 - 01/02/2022 |
+| 16 | Self-Replication Simulation Environment | 01/01/2021 - 01/04/2022 |
 
 ---
 
@@ -112,9 +115,11 @@
 
 | No. | Expense Item |   Calculation   | Total cost |
 |:---:|:------------:|:---------------:|:----------:|
-| 1 | 3D design | ~$10/h | $15000 |
-| 2 | Programming | ~$15/h | $20000 |
+| 1 | 3D design | ~$10/h | $14000 |
+| 2 | Programming | ~$15/h | $17000 |
 | 3 | Research | ~$15/h | $5000 |
+| 4 | Management | ~$10/h | $3000 |
+| 5 | Cloud Computing (render, ML) | ~ | $1000 |
 |     |              |    **TOTAL:**   | $40000 |
 
 ---
