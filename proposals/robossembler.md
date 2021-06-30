@@ -3,7 +3,7 @@
 ## 1. Administrative Information :white_check_mark:
 
 * **Project Name:** Robossembler
-* **Organisation Name:** Robossembler Team
+* **Organisation Name:** --
 * **Project Summary:** Creating simulation of Self-Replicated Robotics Infrastructure for Manipulators
 * **Total Estimated Duration:** 9-12 months
 * **Expected Project Start / End Dates:** 01/04/2021 - 01/04/2022
@@ -39,12 +39,17 @@
     	* ROS
     	* UE4/Unity3D/Godot
     	* C++/Python/Haskell/bash
+        * OpenAI Gym
     2. Robot Operating System packages to be used (please, indicate them as a separate item).
-    	* All needed Open-licensed packages
+        * [rosbridge_suite](http://wiki.ros.org/rosbridge_suite)
+        * [moveit](http://wiki.ros.org/moveit)
+        * [gazebo_ros_pkgs](http://wiki.ros.org/gazebo_ros_pkgs)
+        * [openai_ros](http://wiki.ros.org/openai_ros)
+    	* all other needed Open-licensed packages
     3. Description of the robots, devices, sensors, equipment, etc. to be used.
-    	* In progress...
+    	* --
     4. Known studies, methods, algorithms that you want to use.
-    	* System Engineering
+        * System Engineering
     	* Reinforcement Learning
     	* Photorealistic Virtual Environments
     	* Game Engines
