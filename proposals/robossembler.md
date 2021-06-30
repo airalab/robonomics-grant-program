@@ -110,9 +110,9 @@
 | 11 | Assembly Workspace Design | 01/08/2021 - 01/10/2021 |
 | 12 | Game Engine + ROS Integration | 15/07/2021 - 01/09/2021 |
 | 13 | Robot Arm + ROS integration | 01/09/2021 - 01/12/2021 |
-| 14 | Programming Robot Arm Control Logic | 01/08/2021 - 01/02/2021 |
+| 14 | Programming Robot Arm Control Logic | 01/08/2021 - 01/02/2022 |
 | 15 | Robonomics Testnet Integration | 01/01/2022 - 01/02/2022 |
-| 16 | Self-Replication Simulation Environment | 01/01/2021 - 01/04/2022 |
+| 16 | Self-Replication Simulation Environment | 01/02/2022 - 01/04/2022 |
 
 ---
 
