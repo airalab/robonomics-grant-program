@@ -2,7 +2,7 @@
 
 ## 1. Administrative Information :white_check_mark:
 
-* **Project Name:** IoT Anomaly Checker
+* **Project Name:** IoT Audit Checker
 * **Organisation Name:** [Techgethr](https://techgethr.com/)
 * **Project Summary:** Real-time sensor data analysis system with Microsoft Azure, using Robonomics through a web app so that a person can validate and sign the information registered by a sensor in a certain time.
 * **Total Estimated Duration:** 7 months
@@ -16,13 +16,20 @@
 
 > In this section, you reveal the main idea of the project, how you intend to use the Robonomics Network to bring your idea to life, and your motivation. The section should include the following information (max. one A4 page long):
 
-1. What are the problems that the project is trying to solve?
-2. Why do you want Robonomics Network to be used for solving those problems? 
-3. What are expected main result of the project?
-4. Do you plan to exploit the result in the future (academic, commercial)?
-5. What is your personal motivation to implement this project?
-6. Are there any other projects similar to yours? 
-7. In what way is your project different from the existing ones?
+There is an important problem with the integration of the cloud with data in sensors (IoT), and it is that there is not really a real use of the data and a confirmation from someone responsible about the correctness of the data. For example, sending data from sensors (or proxies) to a cloud can be displayed in a report, but that is where the process ends (very little value in the analytical and auditing part of this information).
+The project consists of designing a process for when the data reaches the cloud, it can be displayed in a web app in Microsoft Azure. In addition, the web app will be integrated with Azure cognitive services, in particular, with Anomaly Detector (https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/) to complement the data of the sensors and detect with Artificial Intelligence if the registration of a sensor is an anomaly (it escapes the acceptable range), for later, in the same web app, with Robonomics the data can be audited and signed by a person in charge and uploaded to IPFS , through a document that will be automatically generated with the filters selected by the person in charge (for example, which sensors or date ranges) and has information on anomalies or normal data.
+In addition, other users within the same website can interact and leave comments on the audited document, using Datalog as an internal message system, also supported by a database.
+The result of the project will be an application in Azure ARM template format (https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/overview) so that the entire application can be deployed by any developer in a few clicks, lifting all the resources in Azure automatically.
+In addition, for its proper use, we will generate online documentation, video tutorials (in Spanish and English) and a couple of events / meetups to show the advantages and why they should use this new platform.
+
+Our aspiration is, although as a project it is open, to offer around it a service and consulting for marketing. We have experience in this and we see a market potential for auditing processes in IoT systems, using Robonomics as an accelerator. In addition, it will allow to offer other types of projects using all the functionalities of Robonomics technologies.
+Although there are no similar public projects, there are at the private level of some organizations. For example, in Latin America Néstor designed a couple of web systems that allowed the auditing of IoT events, but only using a database approval process, and that is why using Blockchain will be a differentiating factor in addition to making it freely available, build products and services on it.
+
+My motivation to participate in this project is the power of the integration of different technologies in order to generate an end-to-end solution for all types of organizations, in this case, IoT, Blockchain, Artificial Intelligence and Web technologies, everything supported by Cloud technology.
+
+In addition, I have already worked with another technology (WebMonetization), thanks to a grant provided by the Interledger Foundation, publishing applications in an open way and now generating alliances to commercialize services. More info: https://community.webmonetization.org/nescampos/web-monetization-js-helpers-grant-report-3-1n3e
+
+I believe that with Robonomics we can do the same and more.
 
 ## 3. Technical Details :pager:
 
