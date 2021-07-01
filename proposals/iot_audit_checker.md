@@ -34,16 +34,32 @@ I believe that with Robonomics we can do the same and more.
 
 ![Architecture](https://i.imgur.com/0UzH8Hm.png)
 
+As you can see, our architecture starts from a set of sensors to send their data (we will simulate the data in the first instance, and then test with real sensors to be defined), and then continue with:
+- Azure IoT Hub (https://azure.microsoft.com/en-us/services/iot-hub/): It is the platform that allows receiving sensor data in the cloud, both through HTTP and MQTT, and is the bridge between the IoT world and the Cloud.
+- Azure Stream Analytics (https://azure.microsoft.com/es-es/services/stream-analytics/): It is the event system that is triggered with each new record that arrives at the IoT Hub and that generates clean data as a response to be sent to the rest of the process.
+- Azure Anomaly Detector (https://azure.microsoft.com/en-us/services/cognitive-services/anomaly-detector/): It is the Artificial Intelligence engine that will be used to complement the sensor data and detect whether a record is an outlier or not.
+- Azure CosmosDB (https://azure.microsoft.com/en-us/services/cosmos-db/): We will use it as a database engine. Being unstructured, we can save data from all types of sensors without major configurations or changes to the system.
+- Azure WebApp (https://azure.microsoft.com/en-us/services/app-service/web/): It is the Web environment, in which, connected with the other services and with Robonomics through Javascript, interact with the network to upload documents signed by users with IPFS and leave messages for each document using Datalog.
+- Azure Virtual Machine (https://azure.microsoft.com/en-us/services/virtual-machines/): With this service, we will deploy 3 virtual machines(1) to maintain a Robonomics testnet that can consume the web application for each action.
+
+(1) The virtual machines will be deployed with a previously built image with Robonomics installed and configured, without requiring programmer intervention.
+
+The web application (Azure Web App) will have modules of: *User, role and parameter management*, *Sensor analysis*, *Document generator* and *Document tracking*.
+- The module "Management of users, roles and parameters" will allow to control the accesses to the system and the respective configurations.
+- The "Document Generator" module will be linked to the "Robonomics IO IPFS" module to upload and download the documents in the system, with the data that the application will generate.
+- The "Sensor analysis" module will be an exploratory view of the data, before generating documents, so that those responsible for the data can evaluate the filters to be used to generate the documents and what sensor data it will contain and explore data from AI engine (Anomaly Detector).
+- The "Document tracking" module will be linked to the "Robonomics IO Datalog" module so that users can record events or details for each document generated in the system (corrections, messages, etc.)
+
+![Modules](https://i.imgur.com/aipVUXG.png)
 
 
-1. An overview of the technology stack to be used. This may include items such as: 
-    1. Links to documentation of software, components, protocols, architecture, data models, API specifications, etc. that you based your project on.
-    2. Robot Operating System packages to be used (please, indicate them as a separate item).
-    3. Description of the robots, devices, sensors, equipment, etc. to be used.
-    4. Known studies, methods, algorithms that you want to use.
-    5. Previous projects, Proof-of-Concept, MVP that you based this project on.
-2. In the case of the prior development, any details about it: publications, repositories, articles, etc.
-3. Details of how your project uses Robonomics Network.
+Robonomics technology used:
+
+- ROBONOMICS-JS: For the interaction of the Web platform by users, using Metamask.
+- ROBONOMICS IO: So that the platform can interact with files with IPFS and with message logs through Datalog.
+- ROBONOMICS Network: It will be deployed in virtual machines (prepared images) with the network already configured.
+
+**So that the system can be deployed in a few steps (the final objective of this project), we will use Azure Resource Manager technology (https://azure.microsoft.com/en-us/features/resource-manager/), which allows us to deploy all the technologies mentioned through templates in JSON format, in which a programmer or architect must only enter custom settings (such as DNS, names or passwords), saving hours of programming.**
 
 ---
 
@@ -63,6 +79,7 @@ I believe that with Robonomics we can do the same and more.
     * Full name: Néstor Nicolás Campos Rojas
     * Role in the project: Team Leader and programmer.
     * Experience: Néstor has more than 11 years of experience in the development of different Cloud solutions, including Big Data and IoT. He has participated in many Microsoft Azure projects and events, being recognized as Microsoft MVP in 2020 for his contribution to the Latin American communities. He owns the Techgethr company.
+    * Github: https://github.com/nescampos and https://github.com/techgethr
 * **Team person #2**:
     * Full name: María Carolina Vidal
     * Role in the project: Writer. In charge of writing all the documentation (tutorials and documents to Robonomics).
