@@ -5,9 +5,9 @@
 * **Project Name:** IoT Audit Checker
 * **Organisation Name:** [Techgethr](https://techgethr.com/)
 * **Project Summary:** Real-time sensor data analysis system with Microsoft Azure, using Robonomics through a web app so that a person can validate and sign the information registered by a sensor in a certain time.
-* **Total Estimated Duration:** 7 months
-* **Expected Project Start / End Dates:** August 2021 - February 2022
-* **Requested Funding:** USD $45,000 (19.89 ETH, value for June 30th 2021)
+* **Total Estimated Duration:** 5 months
+* **Expected Project Start / End Dates:** September 2021 - January 2022
+* **Requested Funding:** USD $29,000 (29,000 USDT)
 * **Payment Address:** 0xdA3ec0B8BDdd2E8BDedEde3333FbaF938fcC18c5
 
 ---
