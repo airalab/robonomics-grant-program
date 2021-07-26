@@ -99,4 +99,6 @@
 
 ## 8. Additional Information :information_source: 
 
-> Feel free to share any other relevant information on the project. 
+> Please indicate here the source (our site, ads, social network, colleagues advice, etc.) from which you found out about the Robonomics Grant Program.
+
+> Also, feel free to share any other relevant information on the project. 
