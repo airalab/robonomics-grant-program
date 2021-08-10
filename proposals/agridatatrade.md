@@ -64,8 +64,7 @@ https://www.agridatatrade.com/
 
 ## 5. Expected results :package:
 
-We aim to have a working platform to demonstrate as a proof of concept and to attract funding and interest from farmers, councils, and economists planning to eventually create a nationwide water (and soil) pollution marketplace. The prototype will be followed by a technical white paper and publications promoting the project. We have full permission from their Ranngitekei Rivers Water Quality Monitoring Group to install sensors on private property in 33 sites  on a permanent ongoing basis. 
-
+We aim to have a working platform to demonstrate as a proof of concept and to attract funding and interest from farmers, councils, and economists planning to eventually create a nationwide water (and soil) pollution marketplace. The prototype will be followed by a technical white paper and publications promoting the project. We have full permission from their Rangitekei Rivers Water Quality Monitoring Group to install sensors on private property in any of 33 sites  on a permanent ongoing basis. We plan to install 6 sensors on 2 farms from the list of sites for real-time monitoring through the Robonomics Network
 
 
 ## 6. Project Schedule :date:
@@ -88,7 +87,7 @@ We aim to have a working platform to demonstrate as a proof of concept and to at
 | No. | Expense Item |   Calculation   | Total cost |
 |:---:|:------------:|:---------------:|:----------:|
 | 1 | Hach HL4 Sensors ($5K USD each) | 6 x $5,000 USD | $30,000 USD (approximate) |
-| 2 | Additional Battery and Communication Equipment | 8 x $1,250 | $10,000 USD (approximate) |
+| 2 | Additional Battery and Communication Equipment | 6 x $1,670 | $10,000 USD (approximate) |
 | 3 | Tax Obligations for an unincorporated body  |50,000USD ~ NZD 71,604.00; Tax for Income upto $14,000.00, @10.5%, upto $48,000.00,@17.5% $70,000.00, @30%, upto $180,000.00, @33% Tax NZD 14,549 ~ 10,000 USD | $10,000 USD (approximate) |
 ||  |**TOTAL: $50,000 USD**|
 
