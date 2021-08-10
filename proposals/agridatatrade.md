@@ -64,7 +64,7 @@ https://www.agridatatrade.com/
 
 ## 5. Expected results :package:
 
-We aim to have a working platform to demonstrate as a proof of concept and to attract funding and interest from farmers, councils, and economists planning to eventually create a nationwide water (and soil) pollution marketplace. The prototype will be followed by a technical white paper and publications promoting the project. We have full permission from their Rangitekei Rivers Water Quality Monitoring Group to install sensors on private property in any of 33 sites  on a permanent ongoing basis. We plan to install 6 sensors on 2 farms from the list of sites for real-time monitoring through the Robonomics Network
+We aim to have a working platform to demonstrate as a proof of concept and to attract funding and interest from farmers, councils, and economists planning to eventually create a nationwide water (and soil) pollution marketplace. The prototype will be followed by a technical white paper and publications promoting the project. We have full permission from their Rangitekei Rivers Water Quality Monitoring Group to install sensors on private property in any of 33 sites https://is.gd/gDs7xd on a permanent ongoing basis. We plan to install 6 sensors on 2 farms from the list of sites for real-time monitoring through the Robonomics Network
 
 
 ## 6. Project Schedule :date:
