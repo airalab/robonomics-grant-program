@@ -7,8 +7,8 @@
 * **Project Summary:** In the making of a Marketplace to create a social enterprise as a self-regulating body for Water Pollution in NZ Farms, we plan to install 1-4 nodes of NO3 measuring sensors per farm and allow multiple farms to join the marketplace alongside the councils/regulators. We then plan to generate tokens that will allow each farm to use or create tokens depending on the pollution (e.g. NO3 leaching) for each farm taking part.
 * **Total Estimated Duration:** 9 months
 * **Expected Project Start / End Dates:** From the 2nd of August 2021 until the 1st of April 2022.
-* **Requested Funding:** $50,000 DAI
-* **Payment Address:** 0x60fae7245c577774caf99816e8de614505031fe3
+* **Requested Funding:** $50,000 USD in XRT
+* **Payment Address:** 0x930e4f2173b260d3bb4f5aadf8d333901ac05210
 
 ---
 
