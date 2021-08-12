@@ -2,7 +2,7 @@
 
 > The Proposal document will contain information about the project you would like to implement using the Robonomics grant. We recommend to provide full and comprehensive information to speed up the proposal review process. Comments in the lines starting with a `>` can be deleted.
 
-> NB: We provide funding in **Robonomics** ([XRT](https://www.coingecko.com/en/coins/robonomics-network)) or **Dai Stablecoin** ([DAI](https://www.coingecko.com/en/coins/dai)) or **Ethereum** ([ETH](https://www.coingecko.com/en/coins/ethereum)) tokens. For the calculation, we use the exchange rate on the date when you proposal is being approved.
+> NB: The main cryptocurrency for funding is **Robonomics** token ([XRT](https://www.coingecko.com/en/coins/robonomics-network)). Also, the grant can be provided in **Dai Stablecoin** ([DAI](https://www.coingecko.com/en/coins/dai)) or **Ethereum** tokens ([ETH](https://www.coingecko.com/en/coins/ethereum)), but applicants need to provide a reasoned explanation to different cryptocurrency in Additional Information. For the calculation, we use the exchange rate on the date when you proposal is being approved.
 
 ## 1. Administrative Information :white_check_mark:
 
@@ -100,5 +100,7 @@
 ## 8. Additional Information :information_source: 
 
 > Please indicate here the source (our site, ads, social network, colleagues advice, etc.) from which you found out about the Robonomics Grant Program.
+
+> If you chose a cryptocurrency for funding other than XRT, please describe the reasons for your choice here.
 
 > Also, feel free to share any other relevant information on the project. 
