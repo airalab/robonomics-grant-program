@@ -201,16 +201,16 @@ ID  |     Task Label            | Task Description                              
 > Here you can specify how you plan to use the Robonomics grant. Again, this list is not strict and is intended to help you and us better understand the project.
 
                                 Task  | Expense Item | Calculation (usd) | No of persons |  month | overhead cost (usd)  | Total cost | 
--------------------------------------:|:------------:|:-----------------:|:-------------:|:------:|:--------------------:|:----------:|:-----------------------------------------------------------
+-------------------------------------:|:------------:|:-----------------:|:-------------:|:------:|:--------------------:|:----------:|
 Task1 : Preparation                  | Month: Novemeber  |cost $0
-------------------------------------- ------------------:|:--------------:|:------------:|:------:|:--------------------:|:----------:|:-----------------------------------------------------------
+------------------------------------- ------------------:|:--------------:|:------------:|:------:|:--------------------:|:----------:|:-------------------------------
             -Task2 : Case Development | Conduct interviews in companies that develop high value products to develop the business process of the AS-IS | $2,500 |1 masters student |1: December
                                       |Perform AS-IS analyses to identify factors and tasks that potentially causes product counterfeiting in the supply chain|$2,500|1 masters student|2: January
                                       |Development of TO-BE process by redesigning the process model and integrate IOT or RFID sensors that enables storage and verification of digital twin of products on blockchain |2: January
 
                                        overhead cost: administration and logistics support( $5,000)
                                        Total cost: $10,000
-------------------------------------:|:----------------------------------------------------------------------------:|:------:|:---------------------:|:---------------------------------------------
+------------------------------------:|:----------------------------------------------------------------------------:|:------:|:---------------------:|:---------------
 Task3: Implementation and simulation | Development of digital twin of products and storing on ROBONOMICS blockchain | $5,000 | 2 software engineers |3: February
                                       |Verification interface for digital twin products stored on ROBONOMICS blockchain|$5,000| 2 software engineers |4: March
                                       |Integration of developed interfaces with TO-BE BPMN process tasks             |$5,000  | 2 software engineers |5: April
@@ -218,7 +218,7 @@ Task3: Implementation and simulation | Development of digital twin of products a
 
                                        overhead: administratio, software & hardware purchases ($10,000)
                                        total cost: $30,000
-------------------------------------:|:--------------------------------------------------------:|:-------:|:------------:|:---------------------------------------------------------------------------
+------------------------------------:|:--------------------------------------------------------:|:-------:|:------------:|:-------------------
 Task4: Paper publication             | Collection and preparation of AS-IS Process and analyses | 0$      | 1 researcher | 5: April
 
                                      | Collection  and preparation of TO-BE process             | 0$      | 1 researcher | 5: April
@@ -228,7 +228,7 @@ Task4: Paper publication             | Collection and preparation of AS-IS Proce
                                      overhead: conference fees and participation logistics($3,000)
                                                Network fees for onchain related simulations($2000) 
                                      total cost: 10,000                                     
------------------------------------:|:---------------------------------------------------------:|:-------:|:------------:|:---------------------------------------------------------------------
+-----------------------------------:|:---------------------------------------------------------:|:-------:|:------------:|:-----------------
                                      Gross total: $50,000
 
 ---
