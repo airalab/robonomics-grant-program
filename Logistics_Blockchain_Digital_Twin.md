@@ -126,7 +126,7 @@ Therefore, we will conduct a series of interviews for practitioners in this type
   - Blockchain based certificate verification system: Implementation code on Github: https://github.com/Dynamic-Flakes/E-Cert-Dapp
 	- Blockchain based KYC system: Whitepaper: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0fKaTa8AAAAJ&cstart=20&pagesize=80&citation_for_view=0fKaTa8AAAAJ:zYLM7Y9cAGgC
 
-3. Details of how your project uses Robonomics Network.
+3. your project uses Robonomics Network.
     High valued products in a  Simulated logistics supply chain will be encoded with RFID/IoT sensors that contain digital twin information about the product. Each manufacturer of such a product will maintain a Robonomics account to read and store the digital twin information of the products on the Robonomics/ Ethereum blockchain. As the encoded product moves along the supply chain logistic, each product can be verified by scanning RFID data and verifying their authenticity on the Robonomics/ Ethereum platform. The ownership of the digital asset (digital twin) can be transferred as the high value product moves along the supply chain using smart contracts. The current ownership of the product can be confirmed instantly by checking the last account associated with the digital twin on the blockchain.
     Figure 1 shows a high level description of the digital twin manager for high valued products. The first layer shows the process part that outlines logistic activities in the supply chain of high-value products. The second layer shows the main components that enable the creation, verification and tracking of digital twin of high valued products. The three main components include Robonomics platform account manager, digital twin web interface and ethereum blockchain component.
     The robonomics platform account enables the creation of accounts and management of digital assets linked to the accounts. This component enables interaction of physical objects (attached with IoT/Rfid sensors) with their digital twin representatives on the blockchain.
@@ -153,7 +153,7 @@ Therefore, we will conduct a series of interviews for practitioners in this type
           * Experience (if applicable). Associate Professor, PhD, IEEE Blockchain Estonia lead
           * Publications: Google Scholar Profile: https://scholar.google.com/citations?hl=en&user=1_wDRvsAAAAJ
 
-      **Organization 2: University of Applied Sciences Upper Austria, Steyr (FHOOE- Steyr)
+     **Organization 2: University of Applied Sciences Upper Austria, Steyr (FHOOE- Steyr)
         * Address: FH Upper Austria Campus Steyr, Fachhochschule Steyr Altbau, Wehrgrabengasse, Steyr, Steyr, Oberosterreich
         * Team person #2:
           * Full name: Chibuzor Udokwu
