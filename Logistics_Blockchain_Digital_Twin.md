@@ -134,6 +134,12 @@ Therefore, we will conduct a series of interviews for practitioners in this type
     The web interface provides the possibility for the participants in the supply chain to track ownership and verify authenticity of high value products as they move along the supply chain. The web interface interacts directly with the smart contract component of the blockchain in verifying and tracking high value products.
 
 
+
+<img src="/Blockchain_Logistics_Digital_Twin/blockchain_logistics_budget_table.png"/>
+
+# Proposed Architecture
+
+
 ---
 
 ## 4. Team :busts_in_silhouette:
@@ -231,6 +237,12 @@ Task4: Paper publication             | Collection and preparation of AS-IS Proce
                                      total cost: 10,000                                     
 -----------------------------------:|:---------------------------------------------------------:|:-------:|:------------:|:--------<br />
                                      Gross total: $50,000
+
+
+
+<img src="/Blockchain_Logistics_Digital_Twin/blockchain_logistics_budget_table.PNG"/>
+
+# Budget Table
 
 ---
 
