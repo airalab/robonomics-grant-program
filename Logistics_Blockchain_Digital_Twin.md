@@ -135,7 +135,7 @@ Therefore, we will conduct a series of interviews for practitioners in this type
 
 
 
-<img src="/Blockchain_Logistics_Digital_Twin/blockchain_logistics_budget_table.png"/>
+<img src="src/Blockchain_Logistics_Digital_Twin/blockchain_logistics_architecture.png">
 
 # Proposed Architecture
 
@@ -193,58 +193,21 @@ Therefore, we will conduct a series of interviews for practitioners in this type
 
 
 
-ID  |     Task Label            | Task Description                                                                            | Responsibility     |Start date| end date <br />
----:|:-------------------------:|:-------------------------------------------------------------------------------------------:|:------------------:||:--------|---------:| <br />
-1   |     Preparation           |Time needed to prepare for the project and set up the required resources for case development| FHOOE/ Dymaxion OÜ | 01.11.21 | 30.11.21 <br />
-2   | Case Development          |Development of the actual case of high-value supply chain to show counterfeiting problems    | FHOOE              | 01.12.21 | 30.01.22 <br />
-3   |Implementation & simulation|Development of the blockchain interfaces & simulation of the IoT integrated business process |Dymaxion OÜ/        | 01.02.22 |30.05.22 <br />
-                                                                                                                               Consulting partners  <br />
-4   |Paper publication          | Paper publication based on the results generated from the project                           |FHOOE/ Dymaxion OÜ  | 01.05.22 |30.06.22 <br />
+<img src="src/Blockchain_Logistics_Digital_Twin/blockchain_logistics_schedule_table.PNG">
 
----
+# Project Schedule Table
 
 
 ## 7. Project Budget :moneybag:
 
 > Here you can specify how you plan to use the Robonomics grant. Again, this list is not strict and is intended to help you and us better understand the project.
 
- Task                                 | Expense Item | Calculation (usd) | No of persons |  month | overhead cost (usd)  | Total cost | <br />
--------------------------------------:|:------------:|:-----------------:|:-------------:|:------:|:--------------------:|:----------:| <br />
-Task1 : Preparation                  | Month: Novemeber  |cost $0 <br />
-------------------------------------- ------------------:|:--------------:|:------------:|:------:|:--------------------:|:----------:|:-------------<br />
-            -Task2 : Case Development | Conduct interviews in companies that develop high value products to develop the business process of the AS-IS | $2,500 |1 masters student |1: December <br />
-                                      |Perform AS-IS analyses to identify factors and tasks that potentially causes product counterfeiting in the supply chain|$2,500|1 masters student|2: January <br />
-                                      |Development of TO-BE process by redesigning the process model and integrate IOT or RFID sensors that enables storage and verification of digital twin of products on blockchain |2: January <br />
 
-                                       overhead cost: administration and logistics support( $5,000)
-                                       Total cost: $10,000
-------------------------------------:|:----------------------------------------------------------------------------:|:------:|:---------------------:|:--------<br />
-Task3: Implementation and simulation | Development of digital twin of products and storing on ROBONOMICS blockchain | $5,000 | 2 software engineers |3: February <br />
-                                      |Verification interface for digital twin products stored on ROBONOMICS blockchain|$5,000| 2 software engineers |4: March <br />
-                                      |Integration of developed interfaces with TO-BE BPMN process tasks             |$5,000  | 2 software engineers |5: April <br />
-                                      |Simulation of blockchain integrated process and collection of simulation results|$5,000| 2 software engineers |6: May <br />
-
-                                       overhead: administratio, software & hardware purchases ($10,000)
-                                       total cost: $30,000
-------------------------------------:|:--------------------------------------------------------:|:-------:|:------------:|:-------------------<br />
-Task4: Paper publication             | Collection and preparation of AS-IS Process and analyses | 0$      | 1 researcher | 5: April <br />
-                                     | Collection  and preparation of TO-BE process             | 0$      | 1 researcher | 5: April <br />
-                                     | Collection  and preparation of simulation results        | 0$      | 1 researcher | 6: May <br />
-                                     | Template preparation and Paper(s) writing                | $5,000   |3 researchers | 6: May <br />
-                                     
-                                     overhead: conference fees and participation logistics($3,000)
-                                               Network fees for onchain related simulations($2000) 
-                                     total cost: 10,000                                     
------------------------------------:|:---------------------------------------------------------:|:-------:|:------------:|:--------<br />
-                                     Gross total: $50,000
-
-
-
-<img src="/Blockchain_Logistics_Digital_Twin/blockchain_logistics_budget_table.PNG"/>
+<img src="src/Blockchain_Logistics_Digital_Twin/blockchain_logistics_budget_table2.PNG">
 
 # Budget Table
 
----
+
 
 ## 8. Additional Information :information_source: 
 
