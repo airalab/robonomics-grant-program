@@ -16,8 +16,6 @@ Logistics department, University of Applied Sciences Upper Austria (FHOOE), Wehr
 
 ## 2. Project Overview :bookmark_tabs:
 
-> In this section, you reveal the main idea of the project, how you intend to use the Robonomics Network to bring your idea to life, and your motivation. The section should include the following information (max. one A4 page long):
-
 1. What are the problems that the project is trying to solve?
 Product counterfeiting is a serious and increasing problem in supply chains especially in high-value products. 
 It poses economic challenges to manufacturers and poses dangers to the general well-being of customers that use such products. 
@@ -59,8 +57,6 @@ Therefore, we will conduct a series of interviews for practitioners in this type
 
 
 ## 3. Technical Details :pager:
-
-> Please, responsibly indicate if your project is based on third-party development and specify the authorship. The section should include the following information: 
 
 1. An overview of the technology stack to be used. This may include items such as: 
     1. Links to documentation of software, components, protocols, architecture, data models, API specifications, etc. that you based your project on.
@@ -144,8 +140,6 @@ Therefore, we will conduct a series of interviews for practitioners in this type
 
 ## 4. Team :busts_in_silhouette:
 
-> In this section, you can describe your team and indicate your scientific and professional experience (scientific papers, blog posts, PhD thesis, GitHub repositories, links to projects’ sites and videos and any other information).
-
 * **Organization** (if applicable):
       **organization 1: Dymaxion OÜ
         * Legal address of organization. Liiva tn 32, 11615, Tallinn, Harju maakond, Registration code 12954070
@@ -176,8 +170,6 @@ Therefore, we will conduct a series of interviews for practitioners in this type
 ---
 
 ## 5. Expected results :package:
-> In this section, you are invited to describe what specific results your team is planning to produce by the end of the project. It can be: setup, launch and test guides, theory and calculations, reports, repositories, ROS modules, articles, videos, blog posts, etc. (max. one page long).
-
 
   - Process description of high-value supply chains
   - Blockchain and IOT integrated process specification of high-value supply chains
@@ -189,9 +181,6 @@ Therefore, we will conduct a series of interviews for practitioners in this type
 
 ## 6. Project Schedule :date:
 
-> Here you can provide the table of expected tasks with a short description of every task. This list is not strict, and you are free to adhere to a different schedule during the grant implementation. First of all, the list is needed so that you can orientate yourself on the upcoming project. Secondly, such a list will demonstrate to us that you have a clear understanding of the goals and objectives.
-
-
 
 <img src="../src/Blockchain_Logistics_Digital_Twin/blockchain_logistics_schedule_table.PNG">
 
@@ -199,9 +188,6 @@ Therefore, we will conduct a series of interviews for practitioners in this type
 
 
 ## 7. Project Budget :moneybag:
-
-> Here you can specify how you plan to use the Robonomics grant. Again, this list is not strict and is intended to help you and us better understand the project.
-
 
 <img src="../src/Blockchain_Logistics_Digital_Twin/blockchain_logistics_budget_table2.PNG">
 
@@ -211,11 +197,6 @@ Therefore, we will conduct a series of interviews for practitioners in this type
 
 ## 8. Additional Information :information_source: 
 
-> Please indicate here the source (our site, ads, social network, colleagues advice, etc.) from which you found out about the Robonomics Grant Program.
-
-> If you chose a cryptocurrency for funding other than XRT, please describe the reasons for your choice here.
-
-> Also, feel free to share any other relevant information on the project. 
 
 References
 1. Stevenson, Mark, and Jerry Busby. "An exploratory analysis of counterfeiting strategies: Towards counterfeit-resilient supply chains." International Journal of Operations & Production Management (2015).
