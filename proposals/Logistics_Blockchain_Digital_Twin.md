@@ -8,7 +8,7 @@
 Logistics department, University of Applied Sciences Upper Austria (FHOOE), Wehrgrabengasse 1, 4400 Steyr
 * **Project Summary:** To show how ROBONOMICS blockchain and IOT related technologies can be applied in a given high-value supply chain to address the problem of fake products identification, verification of authentic products and tracking products ownership using digital twins concepts
 * **Total Estimated Duration:** 6 months (plus one month preparatory period)
-* **Expected Project Start / End Dates:** 01.12.2021 – 01.05.2021
+* **Expected Project Start / End Dates:** 01.12.2021 – 31.05.2022
 * **Requested Funding:** DAI 50,000 USD
 * **Payment Address:** 0xE358C31500EF2a7e33464C3C513d1f71F92B6BAb
 * ** DAI token is preferred as the payment method because its a stable coin and the research organizations which are participating in this project will prefer to receive the exact USD for the purpose of project management and auditing.
@@ -133,32 +133,30 @@ Therefore, we will conduct a series of interviews for practitioners in this type
 ---
 
 ## 4. Team :busts_in_silhouette:
+i.  organization 1: Dymaxion OÜ
+ - Legal address of organization. Liiva tn 32, 11615, Tallinn, Harju maakond, Registration code 12954070
+ - Contact person:
+ - Full name of the contact person representing the team. Alexander Norta
+ - Position at the organisation (if applicable). CEO and owner of Dymaxion OÜ
+ - Main contact address (email, Telegram or Element Riot). 
+ - Email: alex.norta.phd@ieee.org
+ - Telegram: @alexbafana
+ - Role in the project (if applicable). Principal investigator
+ - Experience (if applicable). Associate Professor, PhD, IEEE Blockchain Estonia lead
+ - Publications: Google Scholar Profile: https://scholar.google.com/citations?hl=en&user=1_wDRvsAAAAJ
 
-* **Organization** (if applicable):
-      **organization 1: Dymaxion OÜ
-        * Legal address of organization. Liiva tn 32, 11615, Tallinn, Harju maakond, Registration code 12954070
-        * Contact person:
-          * Full name of the contact person representing the team. Alexander Norta
-          * Position at the organisation (if applicable). CEO and owner of Dymaxion OÜ
-          * Main contact address (email, Telegram or Element Riot). 
-          * Email: alex.norta.phd@ieee.org
-          * Telegram: @alexbafana
-          * Role in the project (if applicable). Principal investigator
-          * Experience (if applicable). Associate Professor, PhD, IEEE Blockchain Estonia lead
-          * Publications: Google Scholar Profile: https://scholar.google.com/citations?hl=en&user=1_wDRvsAAAAJ
-
-     **Organization 2: University of Applied Sciences Upper Austria, Steyr (FHOOE- Steyr)
-        * Address: FH Upper Austria Campus Steyr, Fachhochschule Steyr Altbau, Wehrgrabengasse, Steyr, Steyr, Oberosterreich
-        * Team person #2:
-          * Full name: Chibuzor Udokwu
-          * Role in the project: Blockchain Engineer and system requirement specialist
-          * Experience: PhD researcher in developing custom framework for building blockchain applications and Researcher in building data systems for retail supply chains (Organization- FHOOE)
-          * Publications: Google Scholar Profile: https://scholar.google.com/citations?hl=en&user=0fKaTa8AAAAJ
-        * Team person #3:
-          * Full name: Patrick Brandtner
-          * Role in the project: overseeing the process specifications in high-value supply chains 
-          * Experience: Professor of Supply Chain and Logistic Retail group lead FHOOE
-          * Publications: Google Scholar Profile: https://scholar.google.com/citations?user=c-vtRgcAAAAJ&hl=en&oi=ao
+ii. Organization 2: University of Applied Sciences Upper Austria, Steyr (FHOOE- Steyr)
+  - Address: FH Upper Austria Campus Steyr, Fachhochschule Steyr Altbau, Wehrgrabengasse, Steyr, Steyr, Oberosterreich
+  - Team person #2:
+       * Full name: Chibuzor Udokwu
+       * Role in the project: Blockchain Engineer and system requirement specialist
+       * Experience: PhD researcher in developing custom framework for building blockchain applications and Researcher in building data systems for retail supply chains (Organization- FHOOE)
+       * Publications: Google Scholar Profile: https://scholar.google.com/citations?hl=en&user=0fKaTa8AAAAJ
+   - Team person #3:
+       * Full name: Patrick Brandtner
+       * Role in the project: overseeing the process specifications in high-value supply chains 
+       * Experience: Professor of Supply Chain and Logistic Retail group lead FHOOE
+       * Publications: Google Scholar Profile: https://scholar.google.com/citations?user=c-vtRgcAAAAJ&hl=en&oi=ao
 
 
 ---
