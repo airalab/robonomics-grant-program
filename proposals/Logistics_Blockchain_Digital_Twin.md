@@ -136,14 +136,14 @@ Therefore, we will conduct a series of interviews with practitioners in this typ
 i.  organization 1: Dymaxion OÜ
  - Legal address of the organization. Liiva tn 32, 11615, Tallinn, Harju maakond, Registration code 12954070
  - Contact person:
- - Full name of the contact person representing the team. Alexander Norta
- - Position at the organisation (if applicable). CEO and owner of Dymaxion OÜ
- - Main contact address (email, Telegram or Element Riot). 
- - Email: alex.norta.phd@ieee.org
- - Telegram: @alexbafana
- - Role in the project (if applicable). Principal investigator
- - Experience (if applicable). Associate Professor, PhD, IEEE Blockchain Estonia lead
- - Publications: Google Scholar Profile: https://scholar.google.com/citations?hl=en&user=1_wDRvsAAAAJ
+	 - Full name of the contact person representing the team. Alexander Norta
+	 - Position at the organisation (if applicable). CEO and owner of Dymaxion OÜ
+	 - Main contact address (email, Telegram or Element Riot). 
+	 - Email: alex.norta.phd@ieee.org
+	 - Telegram: @alexbafana
+	 - Role in the project (if applicable). Principal investigator
+	 - Experience (if applicable). Associate Professor, PhD, IEEE Blockchain Estonia lead
+	 - Publications: Google Scholar Profile: https://scholar.google.com/citations?hl=en&user=1_wDRvsAAAAJ
 
 ii. Organization 2: University of Applied Sciences Upper Austria, Steyr (FHOOE- Steyr)
   - Address: FH Upper Austria Campus Steyr, Fachhochschule Steyr Altbau, Wehrgrabengasse, Steyr, Steyr, Oberosterreich
