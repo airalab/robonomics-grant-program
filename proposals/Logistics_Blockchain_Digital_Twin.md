@@ -135,7 +135,7 @@ Therefore, we will conduct a series of interviews for practitioners in this type
 
 
 
-<img src="src/Blockchain_Logistics_Digital_Twin/blockchain_logistics_architecture.png">
+<img src="../src/Blockchain_Logistics_Digital_Twin/blockchain_logistics_architecture.png">
 
 # Proposed Architecture
 
@@ -193,7 +193,7 @@ Therefore, we will conduct a series of interviews for practitioners in this type
 
 
 
-<img src="src/Blockchain_Logistics_Digital_Twin/blockchain_logistics_schedule_table.PNG">
+<img src="../src/Blockchain_Logistics_Digital_Twin/blockchain_logistics_schedule_table.PNG">
 
 # Project Schedule Table
 
@@ -203,7 +203,7 @@ Therefore, we will conduct a series of interviews for practitioners in this type
 > Here you can specify how you plan to use the Robonomics grant. Again, this list is not strict and is intended to help you and us better understand the project.
 
 
-<img src="src/Blockchain_Logistics_Digital_Twin/blockchain_logistics_budget_table2.PNG">
+<img src="../src/Blockchain_Logistics_Digital_Twin/blockchain_logistics_budget_table2.PNG">
 
 # Budget Table
 
