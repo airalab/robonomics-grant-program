@@ -11,6 +11,7 @@ Logistics department, University of Applied Sciences Upper Austria (FHOOE), Wehr
 * **Expected Project Start / End Dates:** 01.12.2021 – 01.05.2021
 * **Requested Funding:** DAI 50,000 USD
 * **Payment Address:** 0xE358C31500EF2a7e33464C3C513d1f71F92B6BAb
+* ** DAI token is preferred as the payment method because its a stable coin and the research organizations which are participating in this project will prefer to receive the exact USD for the purpose of project management and auditing.
 
 ---
 
@@ -34,7 +35,7 @@ Therefore, this project seeks to redesign the supply process for high-value prod
 - Development and analysis of the current supply chain process of high-value value
 - Redesign of the supply chain process of high-value products by integrating IoT (RFID) sensors and for storing digital twin of products on the Robonomics blockchain platform 
 - A simulation of  a redesigned supply chain for high-value products that uses IoT sensors to record digital twins of a product on the Robonomics platform.
-- A simulation of the redesigned supply chain for high-value products showing the verification of authentic products and tracking of their ownership on the ROBONOMICS platform
+- A simulation of the redesigned supply chain for high-value products showing the verification of authentic products and tracking of their ownership on the Robonomics platform
 Do you plan to exploit the result in the future (academic, commercial)? 
 There is possibility of that.
 
@@ -60,25 +61,18 @@ Therefore, we will conduct a series of interviews for practitioners in this type
 
 1. An overview of the technology stack to be used. This may include items such as: 
     1. Links to documentation of software, components, protocols, architecture, data models, API specifications, etc. that you based your project on.
-      - LInks to documentations of software, components, protocol etc
-      - Getting started - https://wiki.robonomics.network/docs/en/
-      - https://wiki.robonomics.network/
-      - https://dapp.robonomics.network/#/
-      - For technical questions on Robonomics - https://discourse.robonomics.network/
-      - White paper- https://static.robonomics.network/docs/presentations/Robonomics.Keypoint.updated.August.2020.pdf
-      - R&D based on Robonomics - https://wiki.robonomics.network/docs/en/r-and-d-based-on-robonomics-network/
-      - Robonomics Playground -https://wiki.robonomics.network/docs/en/playground-overview/
+      
+      - The Robonomics White paper contain technical descriptions about the platform. This therefore serves as the first point of call for information about the platform- https://static.robonomics.network/docs/presentations/Robonomics.Keypoint.updated.August.2020.pdf
       - Digital twins - They are digital (software) copies of a physical Asset.
       - https://azure.microsoft.com/en-us/blog/azure-digital-twins-now-generally-available-create-iot-solutions-that-model-the-real-world/
       - Parachain on the Robonomics Network allow user to create digital twins - https://robonomics.network/blog/the-ultimate-guide-to-robonomics-rws-and-robonomics-parachain-on-polkadot/
       - Build a Digital Twin for Thousands of IoT Devices with Apache Kafka and MongoDB - https://www.youtube.com/watch?v=ue_9iFoXhNc
       - Robonomics marketplace - https://dapp.robonomics.network/#/services
-      - Robonomic communities - https://robonomics.network/community/#science
-      - Aira OS - https://wiki.robonomics.network/docs/en/aira-installation-on-vb/,                             
-      - https://wiki.robonomics.network/docs/en/interact-with-aira/
-      - Robonomic web service - https://robonomics.cloud/
+      - Robonomic communities: we also will potentially get information from the community when needed. Therefore, we consider this as additional tool for gathering information during the project implementation - https://robonomics.network/community/#science
+      - Aira OS: we can use this as an OS for connecting IoT devices to the Robonomics network - https://wiki.robonomics.network/docs/en/aira-installation-on-vb/,  https://wiki.robonomics.network/docs/en/interact-with-aira/
+      - Robonomic web service for potentially storing information about digital twin assets - https://robonomics.cloud/
 
-    2. Robot Operating System packages to be used (please, indicate them as a separate item).
+    2. Robot Operating System packages to be used: potential operating systems that we will use in developing and deploying IoT objects integrated to the logistic supply chain of the high value products.
        -  https://www.ros.org/, 
        -  http://wiki.ros.org/rospy
        -  ROS integration - https://github.com/airalab/robonomics#7-robotics-integration
@@ -87,7 +81,7 @@ Therefore, we will conduct a series of interviews for practitioners in this type
        -  IOT Simulation environment: 
           - https://www.simplesoft.com/SimpleIoTSimulator.html 
           - Node-red IOT device simulator - https://flows.nodered.org/flow/de9ad7f94c78343416ccb1ec0d4a5b2b
-       -  Process/ Workflow Simulation environment
+       -  Process/ Workflow Simulation environment: this an environment for simulating the redesigned logistic supply chain process that is integrated with the Robonomics blockchain, IoT devices and digital twin assets.
             - JBoss business process management tool: https://www.jbpm.org/
             - YAWL business process management tool https://www.jbpm.org/
 
@@ -125,7 +119,7 @@ Therefore, we will conduct a series of interviews for practitioners in this type
 3. your project uses Robonomics Network.
     High valued products in a  Simulated logistics supply chain will be encoded with RFID/IoT sensors that contain digital twin information about the product. Each manufacturer of such a product will maintain a Robonomics account to read and store the digital twin information of the products on the Robonomics/ Ethereum blockchain. As the encoded product moves along the supply chain logistic, each product can be verified by scanning RFID data and verifying their authenticity on the Robonomics/ Ethereum platform. The ownership of the digital asset (digital twin) can be transferred as the high value product moves along the supply chain using smart contracts. The current ownership of the product can be confirmed instantly by checking the last account associated with the digital twin on the blockchain.
     Figure 1 shows a high level description of the digital twin manager for high valued products. The first layer shows the process part that outlines logistic activities in the supply chain of high-value products. The second layer shows the main components that enable the creation, verification and tracking of digital twin of high valued products. The three main components include Robonomics platform account manager, digital twin web interface and ethereum blockchain component.
-    The robonomics platform account enables the creation of accounts and management of digital assets linked to the accounts. This component enables interaction of physical objects (attached with IoT/Rfid sensors) with their digital twin representatives on the blockchain.
+    The Robonomics platform account enables the creation of accounts and management of digital assets linked to the accounts. This component enables interaction of physical objects (attached with IoT/Rfid sensors) with their digital twin representatives on the blockchain.
     The ethereum blockchain component enables the storage of digital assets on the blockchain and also provides smart contract interface for verifying the authenticity of objects and  transferring their ownership to different account as the product moves along the supply chain.
     The web interface provides the possibility for the participants in the supply chain to track ownership and verify authenticity of high value products as they move along the supply chain. The web interface interacts directly with the smart contract component of the blockchain in verifying and tracking high value products.
 
