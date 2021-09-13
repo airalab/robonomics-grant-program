@@ -18,7 +18,17 @@
 
 ## 2. Project Overview :bookmark_tabs:
 
-> In this section, you reveal the main idea of the project, how you intend to use the Robonomics Network to bring your idea to life, and your motivation. The section should include the following information (max. one A4 page long):
+> In this section, you reveal the main idea of the project, how you intend to use the Robonomics Network to bring your idea to life, and your motivation. 
+
+> You might want to put images in the text. To do this, create a subdirectory in the `/src` directory and name it similar to the `.md` file of your proposal. In this subdirectory you can store the images required for your proposal. Use the following construction to place an image in the text:
+
+> `<p align="center">`
+
+> `   <img src="src/project_name_directory/your_image.jpg">`
+
+> `</p>`
+
+> The section should include the following information (max. one A4 page long):
 
 1. What are the problems that the project is trying to solve?
 2. Why do you want Robonomics Network to be used for solving those problems? 
@@ -32,14 +42,16 @@
 
 > Please, responsibly indicate if your project is based on third-party development and specify the authorship. The section should include the following information: 
 
-1. An overview of the technology stack to be used. This may include items such as: 
+1. Details of how your project uses Robonomics Network.
+    1. An overview of how you use the Robonomics technology stack in the development of your project.
+    2. Description of the planned load on the Robonomics network: **indicate the period (3-9 months)** and briefly describe the intended purpose of the transactions.
+2. An overview of the rest technology stack to be used (except Robonomics). This may include items such as: 
     1. Links to documentation of software, components, protocols, architecture, data models, API specifications, etc. that you based your project on.
     2. Robot Operating System packages to be used (please, indicate them as a separate item).
     3. Description of the robots, devices, sensors, equipment, etc. to be used.
     4. Known studies, methods, algorithms that you want to use.
     5. Previous projects, Proof-of-Concept, MVP that you based this project on.
-2. In the case of the prior development, any details about it: publications, repositories, articles, etc.
-3. Details of how your project uses Robonomics Network.
+3. In the case of the prior development, any details about it: publications, repositories, articles, etc.
 
 ---
 
@@ -77,6 +89,8 @@
 
 > Here you can provide the table of expected tasks with a short description of every task. This list is not strict, and you are free to adhere to a different schedule during the grant implementation. First of all, the list is needed so that you can orientate yourself on the upcoming project. Secondly, such a list will demonstrate to us that you have a clear understanding of the goals and objectives.
 
+> Alternatively, if your table is too large, you can upload the table as a image. How to upload and use images is described in section 2.
+
 | No. | Task description | Start/end dates |
 |:---:|:----------------:|:---------------:|
 | ... |        ...       |       ...       |
@@ -89,11 +103,14 @@
 
 > Here you can specify how you plan to use the Robonomics grant. Again, this list is not strict and is intended to help you and us better understand the project.
 
-| No. | Expense Item |   Calculation   | Total cost |
-|:---:|:------------:|:---------------:|:----------:|
-| ... |     ...      |       ...       |     ...    |
-| ... |     ...      |       ...       |     ...    |
-|     |              |    **TOTAL:**   |            |
+> You also need to calculate the approximate total costs of transactions to Robonomics Network yourself. Please keep these costs in mind when planning your budget.
+
+| No. |       Expense Item      |   Calculation   |   Total cost    |
+|:---:|:-----------------------:|:---------------:|:---------------:|
+| ... |           ...           |       ...       |     ...         |
+| ... |           ...           |       ...       |     ...         |
+| ... |Network transaction costs|       ...       |     ... (in XRT)|
+|     |                         |    **TOTAL:**   |                 |
 
 ---
 
