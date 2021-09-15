@@ -107,7 +107,7 @@ Therefore, we will conduct a series of interviews with practitioners in this typ
 
 3. i) How your project uses Robonomics Network: 
 
-High valued products in a  Simulated logistics supply chain will be encoded with RFID/IoT sensors that contain digital twin information about the product. Each manufacturer of such a product will maintain a Robonomics account to read and store the digital twin information of the products on the Robonomics/ Ethereum blockchain. As the encoded product moves along the supply chain logistic, each product can be verified by scanning RFID data and verifying their authenticity on the Robonomics/ Ethereum platform. The ownership of the digital asset (digital twin) can be transferred as the high-value product moves along the supply chain using smart contracts. The current owner of the product can be confirmed instantly by checking the last account associated with the digital twin on the blockchain.
+-	High valued products in a  Simulated logistics supply chain will be encoded with RFID/IoT sensors that contain digital twin information about the product. Each manufacturer of such a product will maintain a Robonomics account to read and store the digital twin information of the products on the Robonomics/ Ethereum blockchain. As the encoded product moves along the supply chain logistic, each product can be verified by scanning RFID data and verifying their authenticity on the Robonomics/ Ethereum platform. The ownership of the digital asset (digital twin) can be transferred as the high-value product moves along the supply chain using smart contracts. The current owner of the product can be confirmed instantly by checking the last account associated with the digital twin on the blockchain.
 Figure 1 shows a high-level description of the digital twin manager for high valued products. The first layer shows the process part that outlines logistic activities in the supply chain of high-value products. The second layer shows the main components that enable the creation, verification and tracking of the digital twin of high valued products. The three main components include the Robonomics platform account manager, digital twin web interface and ethereum blockchain component.     The Robonomics platform account enables the creation of accounts and management of digital assets linked to the accounts. This component enables the interaction of physical objects (attached with IoT/Rfid sensors) with their digital twin representatives on the blockchain. The ethereum blockchain component enables the storage of digital assets on the blockchain and also provides a smart contract interface for verifying the authenticity of objects and transferring their ownership to a different account as the product moves along the supply chain. The web interface provides the possibility for the participants in the supply chain to track ownership and verify the authenticity of high-value products as they move along the supply chain. The web interface interacts directly with the smart contract component of the blockchain in verifying and tracking high-value products.
 
 
@@ -116,8 +116,10 @@ Figure 1 shows a high-level description of the digital twin manager for high val
 Figure 1: Proposed Architecture
 
 
+
  ii) Description of the planned load on the Robonomics network: indicate the period (3-9 months) and briefly describe the intended purpose of the transactions.
- Most of the traffic from this project to the Robonomics network will be basically in the creation of digital twins, reading of digital twin data and verifying the current ownership of digital twin data. These traffics will be generated in the last 4 months of the project during the implementation and simulation phase. In February, the traffic will be mainly generated from the creation of sample digital twins on the Robonomics network. In March, the traffic will consist of storing digital twin data and reading the sample data created. The same will type of traffic will be generated in April. In the month of May during the simulation of the completed project, the generated traffic will include the creation of a digital twin of highly valuable products, reading the digital twin data stored on the Robonmics network and lastly verifying the current ownership of a digital twin-linked product.
+ 
+- 	Most of the traffic from this project to the Robonomics network will be basically in the creation of digital twins, reading of digital twin data and verifying the current ownership of digital twin data. These traffics will be generated in the last 4 months of the project during the implementation and simulation phase. In February, the traffic will be mainly generated from the creation of sample digital twins on the Robonomics network. In March, the traffic will consist of storing digital twin data and reading the sample data created. The same will type of traffic will be generated in April. In the month of May during the simulation of the completed project, the generated traffic will include the creation of a digital twin of highly valuable products, reading the digital twin data stored on the Robonmics network and lastly verifying the current ownership of a digital twin-linked product.
 
 ---
 
@@ -163,14 +165,15 @@ ii. Organization 2: University of Applied Sciences Upper Austria, Steyr (FHOOE- 
 ## 6. Project Schedule :date:
 
 
-<img src="../src/Blockchain_Logistics_Digital_Twin/blockchain_logistics_schedule_table2.PNG">
+<img src="../src/Blockchain_Logistics_Digital_Twin/table_milestones_.PNG">
 Table 1: Project Schedule
 
 
 ## 7. Project Budget :moneybag:
 
-<img src="../src/Blockchain_Logistics_Digital_Twin/blockchain_logistics_budget_table2.PNG">
-Table 2: Project Budget
+<img src="../src/Blockchain_Logistics_Digital_Twin/table_budget_.PNG">
+NB: The total network fees calculation is based on the (current) rate of RXT/17.22 USD 
+Table 2: Project Budget 
 
 
 
