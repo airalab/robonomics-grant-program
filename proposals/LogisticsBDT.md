@@ -34,7 +34,8 @@ Therefore, this project seeks to redesign the supply process for high-value prod
 - Development and analysis of the current supply chain process of high-value value
 - Redesign of the supply chain process of high-value products by integrating IoT (RFID) sensors and for storing digital twin of products on the Robonomics Network platform 
 - A simulation of a redesigned supply chain for high-value products that use IoT sensors to record digital twins of a product on the Robonomics platform.
-- A simulation of the redesigned supply chain for high-value products showing the verification of authentic products and tracking of products ownership on the Robonomics platform
+- A simulation of the redesigned supply chain for high-value products showing the verification of authentic products and tracking of products ownership on the Robonomics platform.
+
 Do you plan to exploit the result in the future (academic, commercial)? 
 There is the possibility of that.
 
