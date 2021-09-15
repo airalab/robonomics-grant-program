@@ -36,11 +36,10 @@ Therefore, this project seeks to redesign the supply process for high-value prod
 - A simulation of a redesigned supply chain for high-value products that use IoT sensors to record digital twins of a product on the Robonomics platform.
 - A simulation of the redesigned supply chain for high-value products showing the verification of authentic products and tracking of products ownership on the Robonomics platform.
 
-Do you plan to exploit the result in the future (academic, commercial)? 
-There is the possibility of that.
 
 4. Do you plan to exploit the result in the future (academic, commercial)?
 The main results of the project will be fully exploited for the publications of research paper(s) that show the application of the Robonomics platform in combating the problem of product counterfeiting in high-value supply chains.
+There is also possibility of exploiting the developed project for commercialization.
 
 5. What is your personal motivation to implement this project?
 The main motivations are as follows: this project shows a real use-case of blockchain addressing problems faced by many business organizations. The project is not necessarily too long with a tangible and measurable output that can be easily assessed.
