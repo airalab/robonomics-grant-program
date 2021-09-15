@@ -93,8 +93,8 @@ Therefore, we will conduct a series of interviews with practitioners in this typ
             - YAWL business process management tool https://www.jbpm.org/
 
     3. Description of the robots, devices, sensors, equipment, etc. to be used.          
-           - Iotify, Nesim and MATLAB IoT module are possible IOT virtual environments that we can use to simulate the IOT sensors and readers attached to physical high-value products in logistics supply chains.
-           - Other possible sensors that we also considered are high frequency RFID tags and their readers such that the tags can easily be attached to a physical high value products and their movement across supply chain will be simulated with their readers.
+       - Iotify, Nesim and MATLAB IoT module are possible IOT virtual environments that we can use to simulate the IOT sensors and readers attached to physical high-value products in logistics supply chains.
+       - Other possible sensors that we also considered are high frequency RFID tags and their readers such that the tags can easily be attached to a physical high value products and their movement across supply chain will be simulated with their readers.
 
     4. Known studies, methods, algorithms that you want to use.
       - Digital twin standards: https://www.sciencedirect.com/science/article/pii/S2212827116313129
