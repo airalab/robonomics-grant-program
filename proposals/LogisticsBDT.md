@@ -173,6 +173,7 @@ Table 1: Project Schedule
 
 <img src="../src/Blockchain_Logistics_Digital_Twin/table_budget_.PNG">
 NB: The total network fees calculation is based on the (current) rate of RXT/17.22 USD 
+
 Table 2: Project Budget 
 
 
