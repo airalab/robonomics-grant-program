@@ -3,15 +3,14 @@
 
 ## 1. Administrative Information :white_check_mark:
 
-* **Project Name:** Blockchain-enabled digital twin for preventing product counterfeiting in high-value supply chains
-* **Organisation Name:** Dymaxion OÜ, Liiva tn 32, 11615, Tallinn, Harju maakond, Registration code 12954070 and 
-Logistics department, University of Applied Sciences Upper Austria (FHOOE), Wehrgrabengasse 1, 4400 Steyr
-* **Project Summary:** To show how ROBONOMICS blockchain and IOT related technologies can be applied in a given high-value supply chain to address the problem of fake products identification, verification of authentic products and tracking products ownership using digital twins concepts
+* **Project Name:** LogisticsBDT (Logistics Blockchain Digital Twin)
+* **Organisation Name:** Dymaxion OÜ and Logistics department, University of Applied Sciences Upper Austria (FHOOE)
+* **Project Summary:** To show how Robonomics Network and IOT related technologies can be applied in a given high-value supply chain to address the problem of fake products identification, verification of authentic products and tracking products ownership using digital twins concepts
 * **Total Estimated Duration:** 6 months (plus a month preparatory period)
-* **Expected Project Start / End Dates:** 01.12.2021 – 31.05.2022
+* **Expected Project Start / End Dates:** 01.11.2021 – 31.05.2022
 * **Requested Funding:** DAI 50,000 USD
 * **Payment Address:** 0xE358C31500EF2a7e33464C3C513d1f71F92B6BAb
-* ** DAI token is preferred as the payment method because it's a stable coin and the research organizations which are participating in this project will prefer to receive the exact USD because of project management and auditing.
+
 
 ---
 
@@ -25,7 +24,7 @@ A lot of approaches have been proposed by researchers to address counterfeiting 
 Still, the problem of counterfeiting continues because customers have no means to independently verify the authenticity of products transparently and efficiently. 
 
 2. Why do you want Robonomics Network to be used for solving those problems? 
-To show how ROBONOMICS blockchain and IOT related technologies can be applied in a given supply chain to address the problem of fake products and verification of authentic products. 
+To show how Robonomics Network and IOT related technologies can be applied in a given supply chain to address the problem of fake products and verification of authentic products. 
 With the opportunities which blockchain technologies, IoT and RFID sensors provide, digital twin a high-value physical product can be coded in a data format and stored on the blockchain. 
 Thus, the authenticity and ownership of such products can be tracked on the blockchain. 
 The Robonomics platform provides the possibility for developing systems that involve the interaction of IoT sensors and devices with the information stored on the blockchain. 
@@ -33,7 +32,7 @@ Therefore, this project seeks to redesign the supply process for high-value prod
 
 3. What are the expected main result of the project?
 - Development and analysis of the current supply chain process of high-value value
-- Redesign of the supply chain process of high-value products by integrating IoT (RFID) sensors and for storing digital twin of products on the Robonomics blockchain platform 
+- Redesign of the supply chain process of high-value products by integrating IoT (RFID) sensors and for storing digital twin of products on the Robonomics Network platform 
 - A simulation of a redesigned supply chain for high-value products that use IoT sensors to record digital twins of a product on the Robonomics platform.
 - A simulation of the redesigned supply chain for high-value products showing the verification of authentic products and tracking of products ownership on the Robonomics platform
 Do you plan to exploit the result in the future (academic, commercial)? 
@@ -71,6 +70,14 @@ Therefore, we will conduct a series of interviews with practitioners in this typ
       - Robonomic communities: we also will potentially get information from the community when needed. Therefore, we consider this as an additional tool for gathering information during the project implementation - https://robonomics.network/community/#science
       - Aira OS: we can use this as an OS for connecting IoT devices to the Robonomics network - https://wiki.robonomics.network/docs/en/aira-installation-on-vb/,  https://wiki.robonomics.network/docs/en/interact-with-aira/
       - Robonomic web service for potentially storing information about digital twin assets - https://robonomics.cloud/
+    - Tools
+         - Robonomics-js is a simple Javascript library for working with Robonomics Network. - https://wiki.robonomics.network/docs/en/robonomics-js/
+         - Solidity, Angular, Python, Nodejs, Web3, Ethereum and Polkadot Ipfs version 0.34.0 - IPFS is a distributed system for storing and accessing files, websites, applications, and data".
+         - Web3 version 1.2.4
+         - Robonomics Network agent - Usually it's represented as a ROS package and it may connect (but not necessarily) a real cyber-physical system to the Robonomics Network.
+         - LIGHTHOUSE - A lighthouse is an autonomous workflow that allows us to distribute the running time of providers that serve a single broadcast channel.
+         
+         - DIGITAL TWINS - https://wiki.robonomics.network/docs/en/digital-twins/, https://dapp.robonomics.network/#/iot/twins, https://www.youtube.com/watch?v=nRVG4CQY7_4
 
     2. Robot Operating System packages to be used: potential operating systems that we will use in developing and deploying IoT objects integrated into the logistic supply chain of the high-value products.
        -  https://www.ros.org/, 
@@ -81,36 +88,18 @@ Therefore, we will conduct a series of interviews with practitioners in this typ
        -  IOT Simulation environment: 
           - https://www.simplesoft.com/SimpleIoTSimulator.html 
           - Node-red IOT device simulator - https://flows.nodered.org/flow/de9ad7f94c78343416ccb1ec0d4a5b2b
-       -  Process/ Workflow Simulation environment: this is an environment for simulating the redesigned logistic supply chain process that is integrated with the Robonomics blockchain, IoT devices and digital twin assets.
+       -  Process/ Workflow Simulation environment: this is an environment for simulating the redesigned logistic supply chain process that is integrated with the Robonomics Network, IoT devices and digital twin assets.
             - JBoss business process management tool: https://www.jbpm.org/
             - YAWL business process management tool https://www.jbpm.org/
 
-    3. Description of the robots, devices, sensors, equipment, etc. to be used.
-      - Tools
-         - Robonomics-js is a simple Javascript library for working with Robonomics Network. - https://wiki.robonomics.network/docs/en/robonomics-js/
-         - Solidity, Angular, Python, Nodejs, Web3, Ethereum and Polkadot Ipfs version 0.34.0 - IPFS is a distributed system for storing and accessing files, websites, applications, and data".
-         - Web3 version 1.2.4
-         - Robonomics Network agent - Usually it's represented as a ROS package and it may connect (but not necessarily) a real cyber-physical system to the Robonomics Network.
-         - LIGHTHOUSE - A lighthouse is an autonomous workflow that allows us to distribute the running time of providers that serve a single broadcast channel.
-         - SENSORS CONNECTIVITY - https://wiki.robonomics.network/docs/en/sensors-connectivity/
-         - DIGITAL TWINS - https://wiki.robonomics.network/docs/en/digital-twins/, https://dapp.robonomics.network/#/iot/twins, https://www.youtube.com/watch?v=nRVG4CQY7_4
-       - Short Description of the technologies
-            Robonomics ->  connect your robot as a service -> for end-users or digital markets.
-            It has support - > Web3 technologies that implement the exchange of technical and economic information between ->  humans and machines
-            Robonomics -> linked Ethereum and Polkadot -> with the Robot operating system (ROS)
-            ROS (stands for Robot Operating System) is a large set of packages for robotics needs. At the same time, it provides a convenient way of building a package for a robot
-            ROS comes with publisher/subscriber architecture that allows dividing a complex system into a set of nodes that can communicate via defined messages. 
-            The Robonomics Network supports ROS and it means any ROS-enabled robot could be easily connected to the network.
-            Robonomics aims to provide a way to connect different kinds of cyber-physical systems (CPSs) for machine-to-machine or human-to-machine communication.
-            A CPS could be one or several sensors, a mobile robot, an industrial one, or a whole factory. Robonomics makes it possible to build a robot economy and let those CPS exchange transactions with a task and money at the same time.
-            The interaction between Robot and Robonomics is through Ronomics Io - https://wiki.robonomics.network/docs/en/rio-overview/
-            Robot Operating System, a middleware suite that allows us to conveniently deploy software for robotic devices. 
-            The three main abstractions in the ROS environment are nodes, topics, and messages. A node is a process/program that performs a certain task and communicates with other nodes through topics. A node subscribes to a topic, waiting for messages, or publishes its messages to them. In this implementation, the different-type components of the robotic system can interact with each other at the same level.
-            With a business process/ workflow management system, the redesigned logistic process of the high-value products can be simulated and ownership and authenticity of high-value products can be verified instantly in real-time.
+    3. Description of the robots, devices, sensors, equipment, etc. to be used.          
+           - Iotify, Nesim and MATLAB IoT module are possible IOT virtual environments that we can use to simulate the IOT sensors and readers attached to physical high-value products in logistics supply chains.
+           - Other possible sensors that we also considered are high frequency RFID tags and their readers such that the tags can easily be attached to a physical high value products and their movement across supply chain will be simulated with their readers.
 
     4. Known studies, methods, algorithms that you want to use.
       - Digital twin standards: https://www.sciencedirect.com/science/article/pii/S2212827116313129
     5. Previous projects, Proof-of-Concept, MVP that you based this project on.
+     	- This project is not based on any PoC or MVP of a previous project.
           
 2. In the case of the prior development, any details about it: publications, repositories, articles, etc.
   - Blockchain-based certificate verification system: Implementation code on Github: https://github.com/Dynamic-Flakes/E-Cert-Dapp
@@ -124,8 +113,7 @@ Figure 1 shows a high-level description of the digital twin manager for high val
 
 
 <img src="../src/Blockchain_Logistics_Digital_Twin/blockchain_logistics_architecture.png">
-
-# Proposed Architecture
+Figure 1: Proposed Architecture
 
 
 ---
@@ -173,22 +161,21 @@ ii. Organization 2: University of Applied Sciences Upper Austria, Steyr (FHOOE- 
 
 
 <img src="../src/Blockchain_Logistics_Digital_Twin/blockchain_logistics_schedule_table2.PNG">
-
-# Project Schedule Table
+Table 1: Project Schedule
 
 
 ## 7. Project Budget :moneybag:
 
 <img src="../src/Blockchain_Logistics_Digital_Twin/blockchain_logistics_budget_table2.PNG">
-
-# Budget Table
+Table 2: Project Budget
 
 
 
 ## 8. Additional Information :information_source: 
+- Payment method: DAI Token
+ 	* DAI token is preferred as the payment method because it's a stable coin and the research organizations which are participating in this project will prefer to receive the exact USD because of project management and auditing.
 
-
-References
+- References
 1. Stevenson, Mark, and Jerry Busby. "An exploratory analysis of counterfeiting strategies: Towards counterfeit-resilient supply chains." International Journal of Operations & Production Management (2015).
 2.  Cho, Soo-Haeng, Xin Fang, and Sridhar Tayur. "Combating strategic counterfeiters in licit and illicit supply chains." Manufacturing & Service Operations Management 17.3 (2015): 273-289.
 3. Mandolla, Claudio, et al. "Building a digital twin for additive manufacturing through the exploitation of blockchain: A case analysis of the aircraft industry." Computers in Industry 109 (2019): 134-152.
