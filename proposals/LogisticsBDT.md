@@ -35,6 +35,13 @@ Therefore, this project seeks to redesign the supply process for high-value prod
 - Redesign of the supply chain process of high-value products by integrating IoT (RFID) sensors and for storing digital twin of products on the Robonomics Network platform 
 - A simulation of a redesigned supply chain for high-value products that use IoT sensors to record digital twins of a product on the Robonomics platform.
 - A simulation of the redesigned supply chain for high-value products showing the verification of authentic products and tracking of products ownership on the Robonomics platform.
+- A section in the Robonomics Wiki page showing a high-level description of the LogisticsBDT and documentation of the steps in its implementation. The LogisticsBDT wiki section will tentatively contain the following subsections:
+	* Introduction: provide general information on Logistics blockchain digital twin description and implementation procedure.
+	* Hardware descriptions: contain descriptions of Sensors - RFID, barcodes, readers etc and Virtual sensors used in the project.
+	* Software descriptions: describe the software applications used in the project implementation such as the Workflow simulation environment. 
+	* Interfaces: describes the user interaction interfaces applied in the project such as Web-component for interacting with IOT sensors, web-component for interacting with digital twin objects on blockchain and the web-component for interacting with smart contract codes.
+	* Business logics: shows the verification logics implemented in the project such as the Smart contract for verification of the authenticity of a product, Smart contract for verification of ownership of a product and Smart contract for transferring ownership of a product.
+	* Case description and implementation codes: presents the case study of high-value supply chain simulation and codes used in its implementation for LogisticsBDT.
 
 
 4. Do you plan to exploit the result in the future (academic, commercial)?
