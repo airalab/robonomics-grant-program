@@ -3,10 +3,11 @@
 ## 1. Administrative Information :white_check_mark:
 
 * **Project Name:** Sensorchain Security Interface
+* **Project Name:** Hamburg University of Applied Sciences (HAW Hamburg)
 * **Project Summary:** The project aims to transfer the concept of object identities basing on the sensorchain for securing authenticity and integrity among stationary and mobile robots. To provide a proof of concept, autonomous and distributed swarm robots will perform simple tasks and detect attackers.
 * **Total Estimated Duration:** 9 months
 * **Expected Project Start / End Dates:** 01/01/2022 - 30/09/2022
-* **Requested Funding:** 49050 USD in ETH or DAI
+* **Requested Funding:** 49050 USD in XRT
 * **Payment Address:** 0xbFee06E2020716cb9a719458c1A2af83231f336b
 
 ---
@@ -57,8 +58,16 @@ We see a huge potential for both sides if distributed security and industrie4.0 
 
 ## 3. Technical Details :pager:
 
+1. Details of how your project uses Robonomics Network.
+    1. An overview of how you use the Robonomics technology stack in the development of your project.
 
-1. An overview of the technology stack to be used. This may include items such as: 
+    Within the project, the Robonomics platform will be used in two ways. On the one hand, the robots will be instructed via the platform. For this purpose, a small DApp is to be developed that can be used to tell the robots which letter they are to reproduce. On the other hand, the platform will be used to store the measurements and position information shared by the robots and information about possible attackers in an unalterable form and make it available to the users.
+
+    2. Description of the planned load on the Robonomics network: **indicate the period (3-9 months)** and briefly describe the intended purpose of the transactions.
+    
+    Within the project, traffic on the Robonomics platform will be generated during the last five months (may-september). Most of the traffic is generated during the testing phase in July and August. The traffic consists of storing and reading of identity data of the individual robots for localization in the sense of proof of location.
+
+2. An overview of the technology stack to be used (except Robonomics). This may include items such as: 
     1. Links to documentation of software, components, protocols, architecture, data models, API specifications, etc. that you based your project on.
         * rviz (http://wiki.ros.org/rviz)
     2. Robot Operating System packages to be used (please, indicate them as a separate item).
@@ -75,9 +84,9 @@ We see a huge potential for both sides if distributed security and industrie4.0 
         - Bornholdt, Lorenz, Julian Reher, and Volker Skwarek. "Proof-of-Location: A method for securing sensor-data-communication in a Byzantine fault tolerant way." Mobile Communication-Technologies and Applications; 24. ITG-Symposium. VDE, 2019.
         - Kaven, Sascha, Lorenz Bornholdt, and Volker Skwarek. "Authentication by RSSI-Position Based Localization in a LoRa LPWAN." 2020 6th IEEE Congress on Information Science and Technology (CiSt). IEEE, 2021.
         - Tschirner, Simon, Katharina Zeuch, Sascha Kaven, Lorenz Bornholdt, and Volker Skwarek. "Security in Distributed Systems by VerifiableLocation-Based Identities" Transactions on Computational Science and Computational Intelligence. Springer, 2021.
-3. Details of how your project uses Robonomics Network.
 
-    Within the project, the Robonomics platform will be used in two ways. On the one hand, the robots will be instructed via the platform. For this purpose, a small DApp is to be developed that can be used to tell the robots which letter they are to reproduce. On the other hand, the platform will be used to store the measurements and position information shared by the robots and information about possible attackers in an unalterable form and make it available to the users.
+
+
 ---
 
 ## 4. Team :busts_in_silhouette:
