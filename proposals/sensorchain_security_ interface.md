@@ -3,7 +3,7 @@
 ## 1. Administrative Information :white_check_mark:
 
 * **Project Name:** Sensorchain Security Interface
-* **Project Name:** Hamburg University of Applied Sciences (HAW Hamburg)
+* **Organisation Name:** Hamburg University of Applied Sciences (HAW Hamburg)
 * **Project Summary:** The project aims to transfer the concept of object identities basing on the sensorchain for securing authenticity and integrity among stationary and mobile robots. To provide a proof of concept, autonomous and distributed swarm robots will perform simple tasks and detect attackers.
 * **Total Estimated Duration:** 9 months
 * **Expected Project Start / End Dates:** 01/01/2022 - 30/09/2022
@@ -158,6 +158,6 @@ The goal is to use swarm robots to provide a proof of concept of the proof of lo
 
 ## 8. Additional Information :information_source:
 
-> Please indicate here the source (our site, ads, social network, colleagues advice, etc.) from which you found out about the Robonomics Grant Program.
+1. Please indicate here the source (our site, ads, social network, colleagues advice, etc.) from which you found out about the Robonomics Grant Program.
 
-> Also, feel free to share any other relevant information on the project. 
+We learned about the Robonomics Grand Proposal through our contact with Maria Sigutina and Aleksandr Kapitonov.
