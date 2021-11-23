@@ -6,7 +6,9 @@
 
 ---
 
-In 2021, the Robonomics Network launches its first Grant Program to support academic research in the field of networked cyber-physical systems. While promoting the core values of the Robonomics Network (read them [here](https://gateway.pinata.cloud/ipfs/QmNNdLG3vuTsJtZtNByWaDTKRYPcBZSZcsJ1FY6rTYCixQ/Robonomics_keypoint_March_2021.pdf)), the Grant Program is aimed at helping researchers and developers to implement cutting-edge projects with robotic and IoT devices operating and communicating in a distributed network environment. The call is open from May till August 2021, the projects may start between June and October 2021.
+In 2021, the Robonomics Network launches its first Grant Program to support academic research in the field of networked cyber-physical systems. While promoting the core values of the Robonomics Network (read them [here](https://gateway.pinata.cloud/ipfs/QmNNdLG3vuTsJtZtNByWaDTKRYPcBZSZcsJ1FY6rTYCixQ/Robonomics_keypoint_March_2021.pdf)), the Grant Program is aimed at helping researchers and developers to implement cutting-edge projects with robotic and IoT devices operating and communicating in a distributed network environment. 
+
+The second round of grant proposals is open from September 2021 till March 2022.
 
 ## :robot: Introduction
 
@@ -50,8 +52,9 @@ To help you better understand what kind of projects we would like to support, we
 * The standart allocation of funds is provided using a **vesting mechanism**, executed as an Ethereum contract using the Aragon platform. The mechanism allows to release the grant reserved tokens in parts for a certain period of time with a certain delay in the first payment, depending on the conditions met and with the possibility of cancellation otherwise.
 * Applicants should be aware of the fact that funds are provided in cryptocurrency. Applicants are solely responsible for finding ways to exchange, the costs of transferring funds from cryptocurrency as well as tax issues. 
 * We expect all applicants to use the Robonomics platform in their projects, so please check the compatibility with your technology before you apply. Also, please, note that we are using the **Robot Operating System** as a connector for robotic devices and **HTTP / MQTT** protocol for connecting IoT devices. For more information, see [our wiki](https://wiki.robonomics.network/).
+* Moreover, we expect projects to be actively involved in the Robonomics infrastructure. You need to decide on a period (**from 3 to 12 months**) during which your project will **regularly send transactions** with any data to Robonomics Network. We request this information to understand the potential network load. 
 * By the end of the project, you must provide a set of deliverables, such as reports, articles, repositories, modules, launch guides, etc.
-* There are no strong restrictions on participation in the Program, but we give priority to teams with research background (for example, if you are **PhD student**) or development experience in Robotics.
+* We give priority to teams with research background, so projects of **MSc or PhD students**, **young scientists and researchers** are more welcome. However, if your project idea is innovative and requires proof of concept, we will gladly consider your proposal.
 * The proposals will be reviewed by the Robonomics developers, who then will cast their votes on **Aragon DAO** platform. Approved applications will be funded immediately.
 * Since our project follows the **open source** paradigm, we strongly encourage you to follow it. More than 50% of the grant results must be published in the open access and under open-source licenses.
 
