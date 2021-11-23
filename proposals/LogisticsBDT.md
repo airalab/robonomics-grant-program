@@ -172,13 +172,13 @@ ii. Organization 2: University of Applied Sciences Upper Austria, Steyr (FHOOE- 
 ## 6. Project Schedule :date:
 
 
-<img src="../src/Blockchain_Logistics_Digital_Twin/table_milestones_.PNG">
+<img src="../src/Blockchain_Logistics_Digital_Twin/table_milestones1.PNG">
 Table 1: Project Schedule
 
 
 ## 7. Project Budget :moneybag:
 
-<img src="../src/Blockchain_Logistics_Digital_Twin/table_budget_.PNG">
+<img src="../src/Blockchain_Logistics_Digital_Twin/table_budget1.PNG">
 NB: Total Robonomics network fees calculation is based on the (current) rate of RXT/17.22 USD 
 
 Table 2: Project Budget 
