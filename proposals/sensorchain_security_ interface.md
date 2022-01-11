@@ -6,7 +6,7 @@
 * **Organisation Name:** Hamburg University of Applied Sciences (HAW Hamburg)
 * **Project Summary:** The project aims to transfer the concept of object identities based on the sensorchain for securing authenticity and integrity during the production process in an industry 4.0 environment. To provide a proof of concept, an industry 4.0 training factory will be enhanced with RFID tags to localize the components during the manufacturing process.
 * **Total Estimated Duration:** 9 months
-* **Expected Project Start / End Dates:** 01/01/2022 - 30/09/2022
+* **Expected Project Start / End Dates:** 01/02/2022 - 31/10/2022
 * **Requested Funding:** 49990 USD in DAI
 * **Payment Address:** 0xbFee06E2020716cb9a719458c1A2af83231f336b
 
@@ -145,12 +145,12 @@ The goal is to use the sensor network in the training factory to provide a proof
 
 | No. | Task description | Start/end dates |
 |:---:|:----------------:|:---------------:|
-| 1 |        Requirements analysis       |       01/01/2022 - 31/01/2022       |
-| 2 |        Setup of the Industry 4.0 training factory and implementation of necessary adaptations.       |       01/02/2022 -  28/02/2022      |
-| 3 |        Design of POL for dynamic sensor networks      |      01/02/2022 - 30/04/2022       |
-| 4 |        Implementation of the concept and creation of digital twins      |      01/05/2022 - 30/06/2022       |
-| 5 |        Testing and evaluation of the targeted test setups.      |      01/07/2022 - 31/08/2022       |
-| 6 |        Documentation: writing open access publication, creating and editing the demo video.      |      01/09/2022 - 30/09/2022       |
+| 1 |        Requirements analysis       |       01/02/2022 - 28/02/2022       |
+| 2 |        Setup of the Industry 4.0 training factory and implementation of necessary adaptations.       |       01/03/2022 -  31/03/2022      |
+| 3 |        Design of POL for dynamic sensor networks      |      01/03/2022 - 31/05/2022       |
+| 4 |        Implementation of the concept and creation of digital twins      |      01/06/2022 - 30/07/2022       |
+| 5 |        Testing and evaluation of the targeted test setups.      |      01/08/2022 - 30/09/2022       |
+| 6 |        Documentation: writing open access publication, creating and editing the demo video.      |      01/10/2022 - 31/10/2022       |
 
 ---
 
