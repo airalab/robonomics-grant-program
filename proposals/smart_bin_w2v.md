@@ -179,6 +179,10 @@ In the end of project we expect to launch full operational Smart Container.
 
 | No. |       Expense Item      |   Calculation   |   Total cost    |
 |:---:|:-----------------------:|:---------------:|:---------------:|
+| ... |           Electronics part           |       120hrs*25usd       |     ...         |
+| ... |           IOS/Android APP          |       ...       |     ...         |
+| ... |           ...           |       ...       |     ...         |
+| ... |           ...           |       ...       |     ...         |
 | ... |           ...           |       ...       |     ...         |
 | ... |           ...           |       ...       |     ...         |
 | ... |Network transaction costs|       ...       |     ... (in XRT)|
@@ -188,8 +192,13 @@ In the end of project we expect to launch full operational Smart Container.
 
 ## 8. Additional Information :information_source: 
 
-> Please indicate here the source (our site, ads, social network, colleagues advice, etc.) from which you found out about the Robonomics Grant Program.
+We find out about Robonomics Grant Program From Twitter
 
-> If you chose a cryptocurrency for funding other than XRT, please describe the reasons for your choice here.
-
-> Also, feel free to share any other relevant information on the project. 
+Hardware solution is a part of whole W2V Ecosystem, which consists of:
+1. Application for incentivizing people for proper sorting recyclables
+2. Hardware smart container
+3. Tokenized recyclables exchange
+Our solution is based on several major principal such as:
+- Creation of the incentive mechanism that is designed to reward economically an improved attitude for a proper PET bottles recycling
+- Creation of an additional economic value by applying a blockchain-based platform and crypto currency token that generates intrinsic economic value for the platform users
+- Transformation of the plastic as raw material into other real and digital commodities.
