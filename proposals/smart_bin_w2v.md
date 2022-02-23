@@ -22,11 +22,11 @@
 
 > You might want to put images in the text. To do this, create a subdirectory in the `/src` directory and name it similar to the `.md` file of your proposal. In this subdirectory you can store the images required for your proposal. Use the following construction to place an image in the text:
 
-> `<p align="center">`
+<p align="center">`
 
-> `   <img src="src/project_name_directory/your_image.jpg">`
+<img src="src/smart_bin_w2v/schema-website.jpg">`
 
-> `</p>`
+</p>`
 
 > The section should include the following information (max. one A4 page long):
 
