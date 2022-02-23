@@ -18,39 +18,81 @@
 
 ## 2. Project Overview :bookmark_tabs:
 
-> In this section, you reveal the main idea of the project, how you intend to use the Robonomics Network to bring your idea to life, and your motivation. 
-
-> You might want to put images in the text. To do this, create a subdirectory in the `/src` directory and name it similar to the `.md` file of your proposal. In this subdirectory you can store the images required for your proposal. Use the following construction to place an image in the text:
-
 <p align="center">
 
 <img src="src/smart_bin_w2v/schema-website.jpg">
 
 </p>
 
-> The section should include the following information (max. one A4 page long):
-
 1. What are the problems that the project is trying to solve?
+W2V Eco solutions solves problem of incentivizing usage of recycling materials in production cycle & collecting big data for analyzing market sentiment by:
+ - creating recycling cryptoexchange 
+ - smart bin solution
+ - metaverse game for recycling/plogging activists
+Smartbin is a proprietary hardware & software solution, that:
+ - sorts pet plastic by color & transparency - electronic device
+ - shreds it into flake (as prepared raw product for production) - hardware device
+ - sends every recycling action into blockchain & rewards consumer - robonomics
+Data on blockchain is shared with recycling crypto exchange.
+The global network of installed smartbins is considered as a member of exchange as a network of IOT devices, providing truthful data of market sentiment & supply.
+
 2. Why do you want Robonomics Network to be used for solving those problems? 
+Network of smartbins globally is aimed to record all transactions in robonomics network to collect big data & shape a real time supply for recycling cryptoexchange parties & reward consumer with cryptocurrency to his wallet.
+
 3. What are expected main result of the project?
+Smartbin phase 1 development phase is aimed to complete full recycling cycle by:
+ - color/transparency PET bottle detection & sorting
+ - shredding a PET bottle
+ - recording all data relating to recycling action to blockchain
+ - rewarding consumers with crypto currency based on transactions recorded via Robonomics network.
+Initially one device should be fully functional prototype according to cycle described above.
+
 4. Do you plan to exploit the result in the future (academic, commercial)?
+Yes, by completing working prototype smartbin device our company has plans to build a network of smart bin devices - an IOT network of robotics solutions for supplying chains for recycling crypto exchange.
+
 5. What is your personal motivation to implement this project?
+As a member of W2V recycling solutions company I am motivated to be a game changer for more sustainable society,that values recyclables as an economical value for building future infrastructure, leaving green grass & clean air for next generations.
+
 6. Are there any other projects similar to yours? 
+Alibaba launched their own network of recycling machines which use artificial intelligence in partnership with Unilever in China.
+Tomra recycling machines are widely in usage across Europe.
+
 7. In what way is your project different from the existing ones?
+Smartbin unit not only collects PET bottle, but also turns pet plastic bottle into non-reversable secondary raw material - flake. 
+Smartbin unit is a compact solution (a cube with 1m side dimension) comparing to Tomra (which represents a conveyor line with sorting devices)
+Smartbin unit is going to use cryptocurrency as reward comparing to competition
+Smartbin unit is compatible with game app, where user can spend his/her rewards as discounts, NFT or game/metaverse artifacts.
+
 
 ## 3. Technical Details :pager:
 
-> Please, responsibly indicate if your project is based on third-party development and specify the authorship. The section should include the following information: 
-
 1. Details of how your project uses Robonomics Network.
     1. An overview of how you use the Robonomics technology stack in the development of your project.
+    Each recycling action is recorded into blockchain, indicating timestamp, robot device id (smartbin id), number of items recycled, characteristics of recycled items (color, transparency - collected from sensor chips) & user id (user reference id in our mobile application). Robonomics blockchain transaction is a prove, that user should get a crypto reward in exchange of recycling action inside our app. 
+Since Robonomics allows to use robots as autonomous agents connected between each other & shaping network of devices, we at W2V, use this feature to optimize our logistics.
+We plan to record each recycling cycle performed by smartbin into transactions & calculating remaining space in the smartbin after each transaction. Since our devices are connected into a network of smart bins in a given locality - we can optimize our logistics process in a given location, by knowing each smartbin free remaining space & a volume our truck can collect from this location, therefore by reaching some threshold, all generated material should be collected in a location.
+For storing recycling transactions we plan to use Robonomics datalog module
+For sensors connectivity we plan to use Autonomous Intelligent Robot Agent package
+https://wiki.robonomics.network/docs/en/rio-datalog/
+
     2. Description of the planned load on the Robonomics network: **indicate the period (3-9 months)** and briefly describe the intended purpose of the transactions.
+    Planned load - one transaction per day or 90 transactions per 3 months.  Each transaction record includes: indicating timestamp, robot device id (smartbin id), number of items recycled, characteristics of recycled items (color, transparency - collected from sensor chips) & user id (user reference id in our mobile application)
+
 2. An overview of the rest technology stack to be used (except Robonomics). This may include items such as: 
     1. Links to documentation of software, components, protocols, architecture, data models, API specifications, etc. that you based your project on.
-    2. Robot Operating System packages to be used (please, indicate them as a separate item).
+ - Radioelectronic scheme https://drive.google.com/file/d/1vf_qDbprsdlulMvwlVKpbXyF36naQJ3P/view?usp=sharing
+ - Arduino bottle detection & qr transaction generation code (https://drive.google.com/file/d/1FZ2G04zfXsQEe6BA2aA1nae7ntAOvy0y/view?usp=sharing)
+ - visual concept https://drive.google.com/file/d/1ZTpc8G2wfMm2lLiRFy1lNe54spgmjNVT/view?usp=drivesdk
+ - smartbin concept documents https://drive.google.com/drive/folders/1AqU_5HJV5J7CYp7e8BplREvAugpK6u96?usp=sharing
+ - technical drawings https://drive.google.com/drive/folders/1euILH1rLinwgm6qdepWIgU8RJee7QG8j?usp=sharing
+ - video reports of working concept (!! to be updated)
+
+ 2. Robot Operating System packages to be used (please, indicate them as a separate item).
     3. Description of the robots, devices, sensors, equipment, etc. to be used.
-    4. Known studies, methods, algorithms that you want to use.
-    5. Previous projects, Proof-of-Concept, MVP that you based this project on.
+   
+   4. Known studies, methods, algorithms that you want to use.
+    Machine Learning Method for Identifying Plastic Bottles
+   5. Previous projects, Proof-of-Concept, MVP that you based this project on.
 3. In the case of the prior development, any details about it: publications, repositories, articles, etc.
 
 ---
