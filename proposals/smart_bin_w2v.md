@@ -87,13 +87,27 @@ https://wiki.robonomics.network/docs/en/rio-datalog/
  - technical drawings https://drive.google.com/drive/folders/1euILH1rLinwgm6qdepWIgU8RJee7QG8j?usp=sharing
  - video reports of working concept (!! to be updated)
 
- 2. Robot Operating System packages to be used (please, indicate them as a separate item).
-    3. Description of the robots, devices, sensors, equipment, etc. to be used.
+   2. Robot Operating System packages to be used (please, indicate them as a separate item).
+ At the current stage of our project, we do not use ROS
    
+   3. Description of the robots, devices, sensors, equipment, etc. to be used.
+   Arduino Mega - Controls nodes according to the specified algorithm
+    IR sensors, photocells - React to changes in the medium and determine the color chromakey of the bottle.
+    
    4. Known studies, methods, algorithms that you want to use.
     Machine Learning Method for Identifying Plastic Bottles
+    
    5. Previous projects, Proof-of-Concept, MVP that you based this project on.
+BeEko - Creating economic value from a product that is seen as "waste"
+https://ua.w2v.io/
+Application - https://play.google.com/store/apps/details?id=com.beeko.beekoapp2
+Recereum - Recereum is blockchain-based platform for turning waste and recyclables to real value
+https://recereum.com/
+
 3. In the case of the prior development, any details about it: publications, repositories, articles, etc.
+https://w2v.io/component/content/article/18-posts/65-waste-to-value-travel-to-ukraine.html?Itemid=279
+https://korosten.today/inshe/sortuj-smittya-grayuchi-v-korosteni-zapuskayut-unikalnij-startap.html
+
 
 ---
 
@@ -102,28 +116,42 @@ https://wiki.robonomics.network/docs/en/rio-datalog/
 > In this section, you can describe your team and indicate your scientific and professional experience (scientific papers, blog posts, PhD thesis, GitHub repositories, links to projects’ sites and videos and any other information).
 
 * **Organization** (if applicable):
-    * Official name of organization.
-    * Legal address of organization.
+    * W2V Eco Solutions LLC
+    * 1804 Scarlett Drive, Hackettstown, NJ, 07840, USA
+    * https://w2v.io/
 * **Contact person**:
-    * Full name of the contact person representing the team.
-    * Position at the organisation (if applicable).
-    * Main contact address (email, Telegram or Element Riot).
-    * Role in the project (if applicable).
-    * Experience (if applicable).
+    * Grigoryi Shegeda
+    * Co-Founder
+    * email - grishaaz1@gmail.com, Telegram - @batmanislive
+    * CIO
+    * Extensive experience in blockchain and smart contracts development, independent contractor; 10 years of work experience as a leading engineer in the energy industry; experienced social media marketing manager and content creator.
+
 * **Team person #1**:
-    * Full name.
-    * Role in the project.
-    * Experience.
-* **Team person #N**:
-    * Full name.
-    * Role in the project.
-    * Experience.
+    * Valentine Zimnitsky
+    * CEO & Founder
+    * A visionary, strategic thinker, cryptocurrency/blockchain/ environmental protection enthusiast, with over 20 years of international business and consulting experience working for several S&P 500 Top 50 Companies globally.
+
+* **Team person #2**:
+    * Klym Shabalin
+    * CTO & Co-Founder
+    * Experience in development of web applications & APIs, 10 years as leading developer and 6 years - as webstudio owner; marketing and research for startups; founder of social projects
+    
+* **Team person #3**:
+    * Alexey Babyshanov
+    * Engineer 
+    * Engineer, structural designer; 20 years of experience in the design of production lines and assemblies.
+  
+*  **Team person #4**:
+    * Yevhen Dudkin
+    * Engineer 
+    * Engineer, structural designer; 12 years of experience in the design of production lines and assemblies.
+
 
 ---
 
 ## 5. Expected results :package:
 
-> In this section, you are invited to describe what specific results your team is planning to produce by the end of the project. It can be: setup, launch and test guides, theory and calculations, reports, repositories, ROS modules, articles, videos, blog posts, etc. (max. one page long).
+In the end of project we expect to launch full operational Smart Container.
 
 ---
 
@@ -133,11 +161,13 @@ https://wiki.robonomics.network/docs/en/rio-datalog/
 
 > Alternatively, if your table is too large, you can upload the table as a image. How to upload and use images is described in section 2.
 
-| No. | Task description | Start/end dates |
-|:---:|:----------------:|:---------------:|
-| ... |        ...       |       ...       |
-| ... |        ...       |       ...       |
-| ... |        ...       |       ...       |
+| No. | Task description                       | Start/end dates |
+|:---:|:--------------------------------------:|:---------------:|
+| 1 |Initiation Opportunity and Risk Analysis|      01.21 - 02.21      |
+| 2 |Formulation Concept and Feasibility     |       02.21 - 04.21       |
+| 3 |Design and Development|       05.21 - 12.21      |
+| 4 |Product Launch Preperation|       02.22 - 04.22      |
+| 5 |Product Launch and Post Launch Assessment|      05.22 - 07.22      |
 
 ---
 
