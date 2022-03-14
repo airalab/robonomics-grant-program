@@ -179,8 +179,8 @@ In the end of project we expect to launch full operational Smart Container.
 
 | No. |       Expense Item      |   Calculation   |   Total cost    |
 |:---:|:-----------------------:|:---------------:|:---------------:|
-| ... |           Electronics part           |       120hrs*25usd       |     ...         |
-| ... |           IOS/Android APP          |       ...       |     ...         |
+| 1 |           Electronics part           |       120hrs*25usd       |     ...         |
+| 2 |           IOS/Android APP          |       100hrs*25usd       |     ...         |
 | ... |           ...           |       ...       |     ...         |
 | ... |           ...           |       ...       |     ...         |
 | ... |           ...           |       ...       |     ...         |
