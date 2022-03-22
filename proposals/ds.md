@@ -100,23 +100,34 @@ Yes, but only for action/cable cam use:
 > In this section, you can describe your team and indicate your scientific and professional experience (scientific papers, blog posts, PhD thesis, GitHub repositories, links to projects’ sites and videos and any other information).
 
 * **Organization** (if applicable):
-    * Official name of organization.
-    * Legal address of organization.
+    * LLC DRON SOTRUNDIK (Russia) & Drone Selfie OU (Europe).
+    * Russia, Krasnodar region, Krasnodar, Aleksandra Pokrishkina street, 25A/1.
 * **Contact person**:
-    * Full name of the contact person representing the team.
-    * Position at the organisation (if applicable).
-    * Main contact address (email, Telegram or Element Riot).
-    * Role in the project (if applicable).
-    * Experience (if applicable).
+    * Rostislav Stepanov, CEO at Drone selfie.
+    * rost.stepanov@gmail.com.
+ 
 * **Team person #1**:
-    * Full name.
-    * Role in the project.
-    * Experience.
-* **Team person #N**:
-    * Full name.
-    * Role in the project.
-    * Experience.
-
+    * Rostislav Stepanov, CEO.
+    * 2018 till now - CEO at Drone selfie.
+    * 12 years of head’s experience in a few technical and Internet companies.
+* **Team person #2**:
+    * Edward Kaminskiy, Developer.
+    * 5 years of experience in programming (Python, FastAPI, PostgreSQL, Docker, etc).
+* **Team person #3**:
+    * Vyacheslav Tievskiy, Developer.
+    * 6 years of experience in programming (React, Ext JS, Angular).
+* **Team person #4**:
+    * Ivan Khomchenko, engineer & UAV pilot.
+    * 4 years of experience in hardware prototyping.
+* **Team person #5**:
+    * Kirill Popov, UAV pilot.
+    * 2 years of experience in piloting.
+* **Team person #6**:
+    * Sergey Hilko, UAV pilot.
+    * 1 year of experience in piloting.
+* **Team person #7**:
+    * Alexander Bizimov, Designer.
+    * 6 years of experience in Adobe Premier, Adobe Photoshop, Corel Draw, Figma, etc.
 ---
 
 ## 5. Expected results :package:
