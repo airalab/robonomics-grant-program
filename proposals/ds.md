@@ -72,7 +72,13 @@ Yes, but only for action/cable cam use:
 
 1. Details of how your project uses Robonomics Network.
     1. An overview of how you use the Robonomics technology stack in the development of your project.
+
+Within the project, the Robonomics platform will be used to create and store the digital twins of the production components. Work on the platform should ensure the constant storage and transfer of user data at the stages: storage user personal data, data ID of user content, storage final user video and hash data, providing user access to final video.
+
     2. Description of the planned load on the Robonomics network: **indicate the period (3-9 months)** and briefly describe the intended purpose of the transactions.
+    
+    As part of the project, traffic on the Robonomics platform will be generated during the last six months (July-December). Most of the traffic is generated during the testing phase in July and August. Traffic consists of creating multiple units of products (media packages). Average sum of transactions per month - 950, for all months - 5700.
+
 2. An overview of the rest technology stack to be used (except Robonomics). This may include items such as: 
     1. Links to documentation of software, components, protocols, architecture, data models, API specifications, etc. that you based your project on.
     2. Robot Operating System packages to be used (please, indicate them as a separate item).
