@@ -31,6 +31,7 @@
 > The section should include the following information (max. one A4 page long):
 
 1. What are the problems that the project is trying to solve?
+    
     We solve the problem of obtaining high-quality personalized video content for visitors of amusement parks in the open air using multiple video sources and quickly obtaining the finished result, this is the best moment after the users receives emotions.
     
 3. Why do you want Robonomics Network to be used for solving those problems? 
