@@ -165,10 +165,13 @@ launch & use instructions
 ## 8. Additional Information :information_source: 
 
 1.Please indicate here the source (our site, ads, social network, colleagues advice, etc.) from which you found out about the Robonomics Grant Program.
-We learned about the Robonomics Grand Proposal through our contact with Sergey Lonshakov
+
+   We learned about the Robonomics Grand Proposal through our contact with Sergey Lonshakov
 
 2.If you chose a cryptocurrency for funding other than XRT, please describe the reasons for your choice here.
-Since the Drone selfie company is a tax resident of Russia, by law it is not allowed to accept payments in cryptocurrency to finance or secure wages or other contractual obligations. Therefore, fiat support is required, and DAI is required for payment.
+
+   Since the Drone selfie company is a tax resident of Russia, by law it is not allowed to accept payments in cryptocurrency to finance or secure wages or other contractual obligations. Therefore, fiat support is required, and DAI is required for payment.
 
 3.Also, feel free to share any other relevant information on the project. 
-Drone selfie project in integration with the Robonomics platform is a great opportunity to demonstrate possibilities in market use. Transferring to a decentralized network is a good step to minimize the risks of a single failure center in access to technology and finance.
+
+   Drone selfie project in integration with the Robonomics platform is a great opportunity to demonstrate possibilities in market use. Transferring to a decentralized network is a good step to minimize the risks of a single failure center in access to technology and finance.
