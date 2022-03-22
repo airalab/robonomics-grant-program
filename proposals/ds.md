@@ -7,12 +7,12 @@
 ## 1. Administrative Information :white_check_mark:
 
 * **Project Name:** Drone selfie
-* **Organisation Name:** If you work for organisation, place its name here
-* **Project Summary:** A brief description of your project (1-2 sentence)
-* **Total Estimated Duration:** Duration of the whole project (from 3 to 9 months)
-* **Expected Project Start / End Dates:** Place start and end dates here
-* **Requested Funding:** Amount in USD, preferred cryptocurrency
-* **Payment Address:** Ethereum payment address
+* **Organisation Name:** LLC «DRON SOTRUDNIK»
+* **Project Summary:** Solution for automatic creation of video content including content flying cameras, action cameras and  telemetry data. Transmitting data by wireless via IoT nodes to the video editing platform, followed by providing the results to the user via the Robonimics network.
+* **Total Estimated Duration:** 9 months
+* **Expected Project Start / End Dates:** 1 April 2022 / 31 December 2022
+* **Requested Funding:** 36 910 USD in DAI
+* **Payment Address:** 0xa7a0332cf5d0a3f20a8031c58eac75f105834006 (Erc20)
 
 ---
 
