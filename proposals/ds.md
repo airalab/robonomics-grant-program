@@ -83,6 +83,7 @@ Yes, but only for action/cable cam use:
     1. Links to documentation of software, components, protocols, architecture, data models, API specifications, etc. that you based your project on.
     
 	Python3 (3.6+), Docker, Git, Shell Linux, FastAPI, PostgreSQL, Flask, Nginx, FFmpeg, Android mobile app stack (Java, Kotlin, etc)
+	
     3. Robot Operating System packages to be used (please, indicate them as a separate item).
     4. Description of the robots, devices, sensors, equipment, etc. to be used. 
 
