@@ -87,10 +87,7 @@ Yes, but only for action/cable cam use:
     3. Robot Operating System packages to be used (please, indicate them as a separate item).
     4. Description of the robots, devices, sensors, equipment, etc. to be used. 
 
-Raspberry Pi 4 Model B
-Barcode Scanner Module 1D / 2D
-WiFi ASUS AC1300 USB Adapter Model; USB-AC54
-Android mobile device
+	Raspberry Pi 4 Model B, Barcode Scanner Module 1D / 2D, WiFi ASUS AC1300 USB Adapter Model; USB-AC54, Android mobile device
 
     6. Known studies, methods, algorithms that you want to use.
     7. Previous projects, Proof-of-Concept, MVP that you based this project on.
