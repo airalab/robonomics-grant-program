@@ -72,8 +72,8 @@ Yes, but only for action/cable cam use:
 
 1. Details of how your project uses Robonomics Network.
     1. An overview of how you use the Robonomics technology stack in the development of your project.
-
-Within the project, the Robonomics platform will be used to create and store the digital twins of the production components. Work on the platform should ensure the constant storage and transfer of user data at the stages: storage user personal data, data ID of user content, storage final user video and hash data, providing user access to final video.
+    
+    Within the project, the Robonomics platform will be used to create and store the digital twins of the production components. Work on the platform should ensure the constant storage and transfer of user data at the stages: storage user personal data, data ID of user content, storage final user video and hash data, providing user access to final video.
 
     2. Description of the planned load on the Robonomics network: **indicate the period (3-9 months)** and briefly describe the intended purpose of the transactions.
     
@@ -81,10 +81,27 @@ Within the project, the Robonomics platform will be used to create and store the
 
 2. An overview of the rest technology stack to be used (except Robonomics). This may include items such as: 
     1. Links to documentation of software, components, protocols, architecture, data models, API specifications, etc. that you based your project on.
-    2. Robot Operating System packages to be used (please, indicate them as a separate item).
-    3. Description of the robots, devices, sensors, equipment, etc. to be used.
-    4. Known studies, methods, algorithms that you want to use.
-    5. Previous projects, Proof-of-Concept, MVP that you based this project on.
+    
+	Python3 (3.6+)
+	Docker
+	Git
+	Shell Linux
+	FastAPI
+	PostgreSQL
+	Flask
+	Nginx
+	FFmpeg
+	Android mobile app stack (Java, Kotlin, etc)
+    3. Robot Operating System packages to be used (please, indicate them as a separate item).
+    4. Description of the robots, devices, sensors, equipment, etc. to be used. 
+
+Raspberry Pi 4 Model B
+Barcode Scanner Module 1D / 2D
+WiFi ASUS AC1300 USB Adapter Model; USB-AC54
+Android mobile device
+
+    6. Known studies, methods, algorithms that you want to use.
+    7. Previous projects, Proof-of-Concept, MVP that you based this project on.
 3. In the case of the prior development, any details about it: publications, repositories, articles, etc.
 
 ---
