@@ -92,26 +92,26 @@ Yes, but only for action/cable cam use:
     * Rostislav Stepanov, CEO at Drone selfie.
     * rost.stepanov@gmail.com.
  
-* **Team person #1**:
+* **Team person №1**:
     * Rostislav Stepanov, CEO.
     * 2018 till now - CEO at Drone selfie.
     * 12 years of head’s experience in a few technical and Internet companies.
-* **Team person #2**:
+* **Team person №2**:
     * Edward Kaminskiy, Developer.
     * 5 years of experience in programming (Python, FastAPI, PostgreSQL, Docker, etc).
-* **Team person #3**:
+* **Team person №3**:
     * Vyacheslav Tievskiy, Developer.
     * 6 years of experience in programming (React, Ext JS, Angular).
-* **Team person #4**:
+* **Team person №4**:
     * Ivan Khomchenko, engineer & UAV pilot.
     * 4 years of experience in hardware prototyping.
-* **Team person #5**:
+* **Team person №5**:
     * Kirill Popov, UAV pilot.
     * 2 years of experience in piloting.
-* **Team person #6**:
+* **Team person №6**:
     * Sergey Hilko, UAV pilot.
     * 1 year of experience in piloting.
-* **Team person #7**:
+* **Team person №7**:
     * Alexander Bizimov, Designer.
     * 6 years of experience in Adobe Premier, Adobe Photoshop, Corel Draw, Figma, etc.
 ---
