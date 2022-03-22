@@ -18,17 +18,6 @@
 
 ## 2. Project Overview :bookmark_tabs:
 
-> In this section, you reveal the main idea of the project, how you intend to use the Robonomics Network to bring your idea to life, and your motivation. 
-
-> You might want to put images in the text. To do this, create a subdirectory in the `/src` directory and name it similar to the `.md` file of your proposal. In this subdirectory you can store the images required for your proposal. Use the following construction to place an image in the text:
-
-> `<p align="center">`
-
-> `   <img src="src/project_name_directory/your_image.jpg">`
-
-> `</p>`
-
-> The section should include the following information (max. one A4 page long):
 
 1. What are the problems that the project is trying to solve?
     
@@ -68,7 +57,6 @@ Yes, but only for action/cable cam use:
 
 ## 3. Technical Details :pager:
 
-> Please, responsibly indicate if your project is based on third-party development and specify the authorship. The section should include the following information: 
 
 1. Details of how your project uses Robonomics Network.
     1. An overview of how you use the Robonomics technology stack in the development of your project.
@@ -96,8 +84,6 @@ Yes, but only for action/cable cam use:
 ---
 
 ## 4. Team :busts_in_silhouette:
-
-> In this section, you can describe your team and indicate your scientific and professional experience (scientific papers, blog posts, PhD thesis, GitHub repositories, links to projects’ sites and videos and any other information).
 
 * **Organization** (if applicable):
     * LLC DRON SOTRUNDIK (Russia) & Drone Selfie OU (Europe).
@@ -132,21 +118,31 @@ Yes, but only for action/cable cam use:
 
 ## 5. Expected results :package:
 
-> In this section, you are invited to describe what specific results your team is planning to produce by the end of the project. It can be: setup, launch and test guides, theory and calculations, reports, repositories, ROS modules, articles, videos, blog posts, etc. (max. one page long).
+During 2022 and beyond, the team plans further commercial implementation of the product 
+
+with the following achievements: 
+integration with Robonomics platform for operating user personal, ID for videos
+storing and delivery results to users based on IPFS
+user's personal account with content management functions
+
+Also for the new partnerships:
+ready set of standard IoT devices for operation at new facilities
+launch & use instructions
 
 ---
 
 ## 6. Project Schedule :date:
 
-> Here you can provide the table of expected tasks with a short description of every task. This list is not strict, and you are free to adhere to a different schedule during the grant implementation. First of all, the list is needed so that you can orientate yourself on the upcoming project. Secondly, such a list will demonstrate to us that you have a clear understanding of the goals and objectives.
-
-> Alternatively, if your table is too large, you can upload the table as a image. How to upload and use images is described in section 2.
 
 | No. | Task description | Start/end dates |
 |:---:|:----------------:|:---------------:|
-| ... |        ...       |       ...       |
-| ... |        ...       |       ...       |
-| ... |        ...       |       ...       |
+| 1 |        Preparing documentation of the existing project code base       |       April 2022       |
+| 2 |        Launching the user's personal account       |       May 2022       |
+| 3 |        Integrating with Robonomics platform for:  storage personal user information, ID user’s video content       |       June - July 2022     |
+| 4 |        Integrating with Robonomics platform for: - IPFS storage for final media content - delivery final media content to user via IPFS       |       August - September 2022       |
+| 5 |        Prototyping, production and testing samples IoT devices necessary for product       |       October 2022       |
+| 6 |        Manufacture first series of IoT devices for commercial use       |       November 2022       |
+| 7 |        Writing documentation for the launch and use product by new partners       |       December 2022       |
 
 ---
 
@@ -158,10 +154,11 @@ Yes, but only for action/cable cam use:
 
 | No. |       Expense Item      |   Calculation   |   Total cost    |
 |:---:|:-----------------------:|:---------------:|:---------------:|
-| ... |           ...           |       ...       |     ...         |
-| ... |           ...           |       ...       |     ...         |
-| ... |Network transaction costs|       ...       |     ... (in XRT)|
-|     |                         |    **TOTAL:**   |                 |
+| 1 |           Hardware material (2 sets for location)           |       2 x 500 USD        |     1000 USD         |
+| 2 |           Personnel costs (9 months)           |       9 x 3850 USD       |     34650 USD         |
+| 3 |           Tax and administrative costs           |       1200 USD       |     1200 USD         |
+| 4 |Network transactions (6 months) (subscription 10 USD per month)|       6 x 10 USD       |     60 USD (in XRT)|
+|     |                         |    **TOTAL:**   |         36910 USD        |
 
 ---
 
