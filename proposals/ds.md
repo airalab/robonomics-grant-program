@@ -23,30 +23,30 @@
     
 We solve the problem of obtaining high-quality personalized video content for visitors of amusement parks in the open air using multiple video sources and quickly obtaining the finished result, this is the best moment after the users receives emotions.
     
-3. Why do you want Robonomics Network to be used for solving those problems? 
+2. Why do you want Robonomics Network to be used for solving those problems? 
 
 The Robonomics network provides opportunities for setting up work when each camera or content transfer point provides an autonomous unit that transmits economic and technical data in an agreed form in both directions. As well as the ability to organize the storage of all involved data in a distributed network.
 
-5. What are expected main result of the project?
+3. What are expected main result of the project?
 
 The main results of the project are a solution with rapid deployment in any new location, which only requires the presence of cameras to capture content and Internet of Things nodes to sort and transfer the necessary content to a cloud video editing server and to the Robonomics platform for storing and transferring all user data.
 
-7. Do you plan to exploit the result in the future (academic, commercial)?
+4. Do you plan to exploit the result in the future (academic, commercial)?
 
 Yes, commercial. The project has already had successful commercial operation at several facilities in Russia and Europe since 2018.
 
-9. What is your personal motivation to implement this project?
+5. What is your personal motivation to implement this project?
 
 Long-term growing profit as a co-founder of the project.
 
-11. Are there any other projects similar to yours? 
+6. Are there any other projects similar to yours? 
 
 Yes, but only for action/cable cam use:
 	
 	https://actioncam.video
 	https://www.actionphotosystems.com
     
-13. In what way is your project different from the existing ones?
+7. In what way is your project different from the existing ones?
 
 	a. The possibility of using drones from different manufacturers and automatic data transmission from them.
 
