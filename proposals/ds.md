@@ -7,11 +7,11 @@
 ## 1. Administrative Information :white_check_mark:
 
 * **Project Name:** Drone selfie
-* **Organisation Name:** LLC «DRON SOTRUDNIK»
+* **Organization Name:** Not used
 * **Project Summary:** Solution for automatic creation of video content including content flying cameras, action cameras and  telemetry data. Transmitting data by wireless via IoT nodes to the video editing platform, followed by providing the results to the user via the Robonimics network.
-* **Total Estimated Duration:** 9 months
-* **Expected Project Start / End Dates:** 1 April 2022 / 31 December 2022
-* **Requested Funding:** 36 910 USD in DAI
+* **Total Estimated Duration:** 7 months
+* **Expected Project Start / End Dates:** 1 April 2022 / 31 October 2022
+* **Requested Funding:** 27 950 USD in DAI
 * **Payment Address:** 0xa7a0332cf5d0a3f20a8031c58eac75f105834006 (Erc20)
 
 ---
@@ -86,8 +86,7 @@ Yes, but only for action/cable cam use:
 ## 4. Team :busts_in_silhouette:
 
 * **Organization** (if applicable):
-    * LLC DRON SOTRUNDIK (Russia) & Drone Selfie OU (Europe).
-    * Russia, Krasnodar region, Krasnodar, Aleksandra Pokrishkina street, 25A/1.
+    * Not used
 * **Contact person**:
     * Rostislav Stepanov, CEO at Drone selfie.
     * rost.stepanov@gmail.com.
@@ -102,18 +101,7 @@ Yes, but only for action/cable cam use:
 * **Team person №3**:
     * Vyacheslav Tievskiy, Developer.
     * 6 years of experience in programming (React, Ext JS, Angular).
-* **Team person №4**:
-    * Ivan Khomchenko, engineer & UAV pilot.
-    * 4 years of experience in hardware prototyping.
-* **Team person №5**:
-    * Kirill Popov, UAV pilot.
-    * 2 years of experience in piloting.
-* **Team person №6**:
-    * Sergey Hilko, UAV pilot.
-    * 1 year of experience in piloting.
-* **Team person №7**:
-    * Alexander Bizimov, Designer.
-    * 6 years of experience in Adobe Premier, Adobe Photoshop, Corel Draw, Figma, etc.
+
 ---
 
 ## 5. Expected results :package:
@@ -121,7 +109,7 @@ Yes, but only for action/cable cam use:
 During 2022 and beyond, the team plans further commercial implementation of the product 
 
 with the following achievements: 
-integration with Robonomics platform for operating user personal, ID for videos
+integration with Robonomics platform for operating user personal data, ID for videos
 storing and delivery results to users based on IPFS
 user's personal account with content management functions
 
@@ -140,9 +128,9 @@ launch & use instructions
 | 2 |        Launching the user's personal account       |       May 2022       |
 | 3 |        Integrating with Robonomics platform for:  storage personal user information, ID user’s video content       |       June - July 2022     |
 | 4 |        Integrating with Robonomics platform for: - IPFS storage for final media content - delivery final media content to user via IPFS       |       August - September 2022       |
-| 5 |        Prototyping, production and testing samples IoT devices necessary for product       |       October 2022       |
-| 6 |        Manufacture first series of IoT devices for commercial use       |       November 2022       |
-| 7 |        Writing documentation for the launch and use product by new partners       |       December 2022       |
+| 5 |        Prototyping, production and testing samples IoT devices necessary for product       |       September 2022       |
+| 6 |        Manufacture first series of IoT devices for commercial use       |       October 2022       |
+| 7 |        Writing documentation for the launch and use product by new partners       |       October 2022       |
 
 ---
 
@@ -155,10 +143,8 @@ launch & use instructions
 | No. |       Expense Item      |   Calculation   |   Total cost    |
 |:---:|:-----------------------:|:---------------:|:---------------:|
 | 1 |           Hardware material (2 sets for location)           |       2 x 500 USD        |     1000 USD         |
-| 2 |           Personnel costs (9 months)           |       9 x 3850 USD       |     34650 USD         |
-| 3 |           Tax and administrative costs           |       1200 USD       |     1200 USD         |
-| 4 |Network transactions (6 months) (subscription 10 USD per month)|       6 x 10 USD       |     60 USD (in XRT)|
-|     |                         |    **TOTAL:**   |         36910 USD        |
+| 2 |           Personnel costs (7 months)           |       9 x 3850 USD       |     26950 USD         |
+|     |                         |    **TOTAL:**   |         27950 USD        |
 
 ---
 
