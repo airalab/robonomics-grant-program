@@ -12,7 +12,7 @@
 * **Total Estimated Duration:** 7 months
 * **Expected Project Start / End Dates:** 1 April 2022 / 31 October 2022
 * **Requested Funding:** 27 950 USD in DAI
-* **Payment Address:** 0xa7a0332cf5d0a3f20a8031c58eac75f105834006 (Erc20)
+* **Payment Address:**  0x92737E96f945c936EF4eCEde83eae75bf52ccD48
 
 ---
 
