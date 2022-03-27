@@ -156,7 +156,7 @@ launch & use instructions
 
 2.If you chose a cryptocurrency for funding other than XRT, please describe the reasons for your choice here.
 
-   Since the Drone selfie company is a tax resident of Russia, by law it is not allowed to accept payments in cryptocurrency to finance or secure wages or other contractual obligations. Therefore, fiat support is required, and DAI is required for payment.
+   It is preferable to use DAI cryptocurrency with a more stable market rate.
 
 3.Also, feel free to share any other relevant information on the project. 
 
