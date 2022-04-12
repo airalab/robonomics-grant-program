@@ -179,20 +179,18 @@ In the end of project we expect to launch full operational Smart Container.
 | 2 |           IOS/Android APP          |       100hrs*25usd       |     2500         |
 | ... |           Hardware part           |       ...       |     ...         |
 | 3 |           Materials:- metal part of the hull including laser cutting  |       1200       |     1200         |
-| ... |           polycarbonate viewports           |       400       |     400         |
-| ... |           65T steel for shredder          |       300       |     300         |
-| ... |gearmotor|       500      |     500 |
-| ... |shredder converter|       300       |     300 |
-| ... |worm mini-motor gearbox|       400       |     400 |
-| ... |proximity switches|       400       |     400 |
-| ... |pulleys for machinery|       200       |     200 |
-| ... |painting, anodizing|       230       |     230 |
-| ... |arduino Mega|       75       |     75 |
-| ... |Welding, assembling|      1100       |     1100 |
-| ... |Network transaction costs|       avg. transaction fee in Kusama = 0.002 ksm( 0.348 USD)
-Everyday blockchain usage = 2 
-
-       |     0.70 |
+| 3.1 |           polycarbonate viewports           |       400       |     400         |
+| 3.2 |           65T steel for shredder          |       300       |     300         |
+| 3.3 |gearmotor|       500      |     500 |
+| 3.4 |shredder converter|       300       |     300 |
+| 3.5 |worm mini-motor gearbox|       400       |     400 |
+| 3.6 |proximity switches|       400       |     400 |
+| 3.7 |pulleys for machinery|       200       |     200 |
+| 3.8 |painting, anodizing|       230       |     230 |
+| 3.9 |arduino Mega|       75       |     75 |
+| 4 |Welding, assembling|      1100       |     1100 |
+| 5 |Network transaction costs|       avg. transaction fee in Kusama = 0.002 ksm( 0.348 USD)
+Everyday blockchain usage = 2 |     0.70 |
 |     |                         |    **TOTAL:**   |                 |
 
 ---
