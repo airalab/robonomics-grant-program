@@ -178,9 +178,7 @@ In the end of project we expect to launch full operational Smart Container.
 | 1 |           Electronics part           |       120hrs*25usd       |     3000         |
 | 2 |           IOS/Android APP          |       100hrs*25usd       |     2500         |
 | ... |           Hardware part           |       ...       |     ...         |
-| 3 |           Materials:
-- metal part of the hull including laser cutting
-           |       1200       |     1200         |
+| 3 |           Materials:- metal part of the hull including laser cutting  |       1200       |     1200         |
 | ... |           polycarbonate viewports           |       400       |     400         |
 | ... |           65T steel for shredder          |       300       |     300         |
 | ... |gearmotor|       500      |     500 |
