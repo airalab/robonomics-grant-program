@@ -180,7 +180,7 @@ In the end of project we expect to launch full operational Smart Container.
 | ... |           Hardware part           |       ...       |     ...         |
 | 3 |           Materials:
 - metal part of the hull including laser cutting
-           |       1200       |     ...         |
+           |       1200       |     1200         |
 | ... |           polycarbonate viewports           |       400       |     400         |
 | ... |           65T steel for shredder          |       300       |     300         |
 | ... |gearmotor|       500      |     500 |
