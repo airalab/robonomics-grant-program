@@ -20,7 +20,8 @@
 
 <p align="center">
 
-<img src="src/smart_bin_w2v/schema-website.jpg">
+<img src="src/robonomics-grant-program
+/smart_bin_w2v/schema-website.jpg">
 
 </p>
 
