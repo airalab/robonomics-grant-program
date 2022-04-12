@@ -1,12 +1,13 @@
 # Robonomics Grant Proposal
+Ukraine Stands!
 
 ## 1. Administrative Information :white_check_mark:
 
 * **Project Name:** Smart Bin W2V
 * **Organisation Name:** W2V Eco Solutions LLC
-* **Project Summary:** Smart container as a part of or whole project.  Our team sees great potential of a circular model economy for producers and companies, which use plastic for their package, such as PET-bottles recyclables in a production cycle, and for consumers & local communities from the other hand - as a financial value from sorting waste.
+* **Project Summary:** Smart container as a part of or whole project. Development and Core devs located at Ukraine.  Our team sees great potential of a circular model economy for producers and companies, which use plastic for their package, such as PET-bottles recyclables in a production cycle, and for consumers & local communities from the other hand - as a financial value from sorting waste.
 * **Total Estimated Duration:** 5 months
-* **Expected Project Start / End Dates:** Place start and end dates here
+* **Expected Project Start / End Dates:** End - July 2022
 * **Requested Funding:** 50k in XRT
 * **Payment Address:** 0xe88f58a6d55882d5C1347Dd2F67E5Bf0e0F57d2A
 
@@ -109,8 +110,6 @@ https://korosten.today/inshe/sortuj-smittya-grayuchi-v-korosteni-zapuskayut-unik
 
 ## 4. Team :busts_in_silhouette:
 
-> In this section, you can describe your team and indicate your scientific and professional experience (scientific papers, blog posts, PhD thesis, GitHub repositories, links to projects’ sites and videos and any other information).
-
 * **Organization** (if applicable):
     * W2V Eco Solutions LLC
     * 1804 Scarlett Drive, Hackettstown, NJ, 07840, USA
@@ -153,10 +152,6 @@ In the end of project we expect to launch full operational Smart Container.
 
 ## 6. Project Schedule :date:
 
-> Here you can provide the table of expected tasks with a short description of every task. This list is not strict, and you are free to adhere to a different schedule during the grant implementation. First of all, the list is needed so that you can orientate yourself on the upcoming project. Secondly, such a list will demonstrate to us that you have a clear understanding of the goals and objectives.
-
-> Alternatively, if your table is too large, you can upload the table as a image. How to upload and use images is described in section 2.
-
 | No. | Task description                       | Start/end dates |
 |:---:|:--------------------------------------:|:---------------:|
 | 1 |Initiation Opportunity and Risk Analysis|      01.21 - 02.21      |
@@ -168,10 +163,6 @@ In the end of project we expect to launch full operational Smart Container.
 ---
 
 ## 7. Project Budget :moneybag:
-
-> Here you can specify how you plan to use the Robonomics grant. Again, this list is not strict and is intended to help you and us better understand the project.
-
-> You also need to calculate the approximate total costs of transactions to Robonomics Network yourself. Please keep these costs in mind when planning your budget.
 
 | No. |       Expense Item      |   Calculation   |   Total cost    |
 |:---:|:-----------------------:|:---------------:|:---------------:|
