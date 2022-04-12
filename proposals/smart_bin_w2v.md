@@ -180,9 +180,8 @@ In the end of project we expect to launch full operational Smart Container.
 | 3.8 |painting, anodizing|       230       |     230 |
 | 3.9 |arduino Mega|       75       |     75 |
 | 4 |Welding, assembling|      1100       |     1100 |
-| 5 |Network transaction costs|       avg. transaction fee in Kusama = 0.002 ksm( 0.348 USD)
-Everyday blockchain usage = 2 |     0.70 |
-|     |                         |    **TOTAL:**   |                 |
+| 5 |Network transaction costs|    avg. transaction fee in Kusama = 0.002 ksm( 0.348 USD) Everyday blockchain usage = 2 |     0.70(30 per mo.) |
+|     |                         |    **TOTAL:**   |         10635        |
 
 ---
 
