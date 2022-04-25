@@ -6,6 +6,10 @@
 
 ---
 
+### **FROM MAY 1, 2022, ROBONOMICS GRANT PROGRAM IS ON PAUSE. PULL REQUESTS WITH PROPOSALS BEFORE THIS DATE WILL BE PROCESSED. NEW PULL REQUESTS WILL NOT BE ACCEPTED. EXISTING PROJECTS WORK AS USUAL. FOLLOW THE UPDATES ON OUR [BLOG](https://robonomics.network/blog/).**
+
+---
+
 In 2021, the Robonomics Network launches its first Grant Program to support academic research in the field of networked cyber-physical systems. While promoting the core values of the Robonomics Network (read them [here](https://gateway.pinata.cloud/ipfs/QmNNdLG3vuTsJtZtNByWaDTKRYPcBZSZcsJ1FY6rTYCixQ/Robonomics_keypoint_March_2021.pdf)), the Grant Program is aimed at helping researchers and developers to implement cutting-edge projects with robotic and IoT devices operating and communicating in a distributed network environment. 
 
 The second round of grant proposals is open from September 2021 till March 2022.
