@@ -7,7 +7,7 @@ Ukraine Stands!
 * **Organisation Name:** W2V Eco Solutions LLC
 * **Project Summary:** Smart container as a part of or whole project. Development and Core devs located at Ukraine.  Our team sees great potential of a circular model economy for producers and companies, which use plastic for their package, such as PET-bottles recyclables in a production cycle, and for consumers & local communities from the other hand - as a financial value from sorting waste.
 * **Total Estimated Duration:** 5 months
-* **Expected Project Start / End Dates:** October 2021 / November(due to war) 2022
+* **Expected Project Start / End Dates:** May - June 2023 (due to war)
 * **Requested Funding:** 50k in XRT
 * **Payment Address:** 0xe88f58a6d55882d5C1347Dd2F67E5Bf0e0F57d2A
 
@@ -154,11 +154,8 @@ In the end of project we expect to launch full operational Smart Container.
 
 | No. | Task description                       | Start/end dates |
 |:---:|:--------------------------------------:|:---------------:|
-| 1 |Initiation Opportunity and Risk Analysis|      01.21 - 02.21      |
-| 2 |Formulation Concept and Feasibility     |       02.21 - 04.21       |
-| 3 |Design and Development|       05.21 - 12.21      |
-| 4 |Product Launch Preperation|       02.22 - 04.22      |
-| 5 |Product Launch and Post Launch Assessment|      05.22 - 07.22      |
+| 1 |Product Launch Preperation|       02.22 - 12.22      |
+| 5 |Product Launch and Post Launch Assessment|      01.23 - 07.23      |
 
 ---
 
@@ -181,7 +178,11 @@ In the end of project we expect to launch full operational Smart Container.
 | 3.9 |arduino Mega|       75       |     75 |
 | 4 |Welding, assembling|      1100       |     1100 |
 | 5 |Network transaction costs|    avg. transaction fee in Kusama = 0.002 ksm( 0.348 USD) Everyday blockchain usage = 2 |     0.70(30 per mo.) |
-|     |                         |    **TOTAL:**   |         10635        |
+| 6 |Marketing|      15 000       |     15 000 |
+| 7 |Software for recycling center|      10 000       |    10 000 |
+| 8 |Blockchain integration|      10 000       |     10 000 |
+| 8 |Blockchain integration|      4375      |     4375 |
+|     |                         |    **TOTAL:**   |         50100        |
 
 ---
 
