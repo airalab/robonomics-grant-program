@@ -17,7 +17,7 @@ Ukraine Stands!
 
 <p align="center">
 
-<img src="smart_bin_w2v/schema-website.jpg">
+<img src="https://github.com/Geri-X/robonomics-grant-program/blob/main/src/smart_bin_w2v/schema-website.jpg">
 
 </p>
 
