@@ -7,7 +7,7 @@ Ukraine Stands!
 * **Organisation Name:** W2V Eco Solutions LLC
 * **Project Summary:** Smart container as a part of or whole project. Development and Core devs located at Ukraine.  Our team sees great potential of a circular model economy for producers and companies, which use plastic for their package, such as PET-bottles recyclables in a production cycle, and for consumers & local communities from the other hand - as a financial value from sorting waste.
 * **Total Estimated Duration:** 5 months
-* **Expected Project Start / End Dates:** End - July 2022
+* **Expected Project Start / End Dates:** October 2021 / November(due to war) 2022
 * **Requested Funding:** 50k in XRT
 * **Payment Address:** 0xe88f58a6d55882d5C1347Dd2F67E5Bf0e0F57d2A
 
