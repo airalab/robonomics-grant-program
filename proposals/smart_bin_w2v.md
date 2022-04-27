@@ -181,7 +181,7 @@ In the end of project we expect to launch full operational Smart Container.
 | 6 |Marketing|      15 000       |     15 000 |
 | 7 |Software for recycling center|      10 000       |    10 000 |
 | 8 |Blockchain integration|      10 000       |     10 000 |
-| 8 |Blockchain integration|      4375      |     4375 |
+| 9 |Spare parts|      4375      |     4375 |
 |     |                         |    **TOTAL:**   |         50100        |
 
 ---
